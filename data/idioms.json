@@ -1,65 +1,3502 @@
 [
-  {"id":1,"phrase":"as soon as possible","level":600,"meaning":"できるだけ早く","example":"Please send the report as soon as possible."},
-  {"id":2,"phrase":"at the moment","level":600,"meaning":"今のところ、現在は","example":"I am busy at the moment. Can I call you back?"},
-  {"id":3,"phrase":"fill out a form","level":600,"meaning":"書類に記入する","example":"Please fill out this form with your personal information."},
-  {"id":4,"phrase":"get in touch","level":600,"meaning":"連絡を取る","example":"Feel free to get in touch if you have any questions."},
-  {"id":5,"phrase":"give someone a call","level":600,"meaning":"電話をかける","example":"I'll give you a call when I arrive at the office."},
-  {"id":6,"phrase":"in charge of","level":600,"meaning":"～を担当して","example":"Who is in charge of the marketing campaign?"},
-  {"id":7,"phrase":"in time for","level":600,"meaning":"～に間に合って","example":"We finished the project in time for the deadline."},
-  {"id":8,"phrase":"look forward to","level":600,"meaning":"～を楽しみにする","example":"I look forward to meeting you next week."},
-  {"id":9,"phrase":"make a decision","level":600,"meaning":"決断する","example":"We need to make a decision about the new supplier."},
-  {"id":10,"phrase":"on behalf of","level":600,"meaning":"～を代表して","example":"I am writing on behalf of our CEO."},
-  {"id":11,"phrase":"out of stock","level":600,"meaning":"在庫切れ","example":"This item is currently out of stock."},
-  {"id":12,"phrase":"place an order","level":600,"meaning":"注文する","example":"We would like to place an order for 200 units."},
-  {"id":13,"phrase":"take a break","level":600,"meaning":"休憩する","example":"Let's take a break and continue after lunch."},
-  {"id":14,"phrase":"work on","level":600,"meaning":"～に取り組む","example":"She is working on a new proposal for the client."},
-  {"id":15,"phrase":"by the end of","level":600,"meaning":"～の終わりまでに","example":"Please submit your report by the end of the week."},
-
-  {"id":16,"phrase":"ahead of schedule","level":700,"meaning":"予定より早く","example":"The construction project was completed ahead of schedule."},
-  {"id":17,"phrase":"as a result","level":700,"meaning":"その結果","example":"Sales increased. As a result, we hired more staff."},
-  {"id":18,"phrase":"at your earliest convenience","level":700,"meaning":"ご都合のよい時に","example":"Please call me back at your earliest convenience."},
-  {"id":19,"phrase":"be responsible for","level":700,"meaning":"～に責任がある","example":"She is responsible for managing the accounts."},
-  {"id":20,"phrase":"bring up","level":700,"meaning":"提起する、話題にする","example":"He brought up an important issue during the meeting."},
-  {"id":21,"phrase":"carry out","level":700,"meaning":"実施する、実行する","example":"We will carry out the survey next month."},
-  {"id":22,"phrase":"come up with","level":700,"meaning":"思いつく、考え出す","example":"Can you come up with a solution by tomorrow?"},
-  {"id":23,"phrase":"cut costs","level":700,"meaning":"コストを削減する","example":"We must find ways to cut costs this quarter."},
-  {"id":24,"phrase":"deal with","level":700,"meaning":"対処する、処理する","example":"How do you plan to deal with this customer complaint?"},
-  {"id":25,"phrase":"fall behind schedule","level":700,"meaning":"予定より遅れる","example":"The project has fallen behind schedule due to delays."},
-  {"id":26,"phrase":"follow up on","level":700,"meaning":"フォローアップする","example":"I will follow up on the proposal I sent last week."},
-  {"id":27,"phrase":"go over","level":700,"meaning":"見直す、検討する","example":"Let's go over the details of the contract together."},
-  {"id":28,"phrase":"hand in","level":700,"meaning":"提出する","example":"Please hand in your report by Friday afternoon."},
-  {"id":29,"phrase":"keep track of","level":700,"meaning":"～を把握する、追跡する","example":"It is important to keep track of all expenses."},
-  {"id":30,"phrase":"draw attention to","level":700,"meaning":"～に注意を向ける","example":"I want to draw attention to the budget discrepancy."},
-
-  {"id":31,"phrase":"across the board","level":800,"meaning":"全体的に、全部門で","example":"Salaries were cut across the board during the recession."},
-  {"id":32,"phrase":"at stake","level":800,"meaning":"危機にさらされて","example":"Our company's reputation is at stake if we fail."},
-  {"id":33,"phrase":"bear in mind","level":800,"meaning":"念頭に置く","example":"Bear in mind that the budget is limited."},
-  {"id":34,"phrase":"bottom line","level":800,"meaning":"最終損益、要点","example":"The bottom line is that we need to increase revenue."},
-  {"id":35,"phrase":"break even","level":800,"meaning":"損益分岐点に達する","example":"The company expects to break even by the third quarter."},
-  {"id":36,"phrase":"bring to the table","level":800,"meaning":"貢献する、もたらす","example":"What unique skills can you bring to the table?"},
-  {"id":37,"phrase":"capitalize on","level":800,"meaning":"～を利用する、活用する","example":"We should capitalize on this growing trend."},
-  {"id":38,"phrase":"cut corners","level":800,"meaning":"手を抜く、コストを切り詰める","example":"Never cut corners when it comes to product safety."},
-  {"id":39,"phrase":"get off the ground","level":800,"meaning":"軌道に乗る、始まる","example":"The new initiative finally got off the ground."},
-  {"id":40,"phrase":"in the pipeline","level":800,"meaning":"計画中の、進行中の","example":"We have several new products in the pipeline."},
-  {"id":41,"phrase":"level the playing field","level":800,"meaning":"公平な競争環境を作る","example":"The new regulations will level the playing field for all companies."},
-  {"id":42,"phrase":"move the needle","level":800,"meaning":"変化をもたらす、影響を与える","example":"The new marketing campaign really moved the needle on sales."},
-  {"id":43,"phrase":"on the same page","level":800,"meaning":"同じ認識を持っている","example":"Let's make sure we're on the same page before the meeting."},
-  {"id":44,"phrase":"take the lead","level":800,"meaning":"主導権を取る、先頭に立つ","example":"Our company will take the lead in sustainable packaging."},
-  {"id":45,"phrase":"think outside the box","level":800,"meaning":"固定観念にとらわれずに考える","example":"We need to think outside the box to solve this problem."},
-
-  {"id":46,"phrase":"above and beyond","level":900,"meaning":"期待以上のことをする","example":"She went above and beyond to help the client."},
-  {"id":47,"phrase":"at the forefront","level":900,"meaning":"最前線に、先頭に","example":"Our company is at the forefront of AI technology."},
-  {"id":48,"phrase":"behind the scenes","level":900,"meaning":"舞台裏で、表に出ずに","example":"A lot of work was done behind the scenes to make this possible."},
-  {"id":49,"phrase":"by the book","level":900,"meaning":"規則通りに、正式に","example":"We always do everything by the book in this company."},
-  {"id":50,"phrase":"cut to the chase","level":900,"meaning":"要点に迫る、本題に入る","example":"Let's cut to the chase—what is the actual problem?"},
-  {"id":51,"phrase":"drill down","level":900,"meaning":"詳細を掘り下げる","example":"We need to drill down into the data to find the cause."},
-  {"id":52,"phrase":"going forward","level":900,"meaning":"今後は、これからは","example":"Going forward, all approvals must be documented."},
-  {"id":53,"phrase":"in the red","level":900,"meaning":"赤字で、損失が出ている","example":"The company has been in the red for three consecutive years."},
-  {"id":54,"phrase":"paradigm shift","level":900,"meaning":"パラダイムシフト、大転換","example":"Remote work represents a paradigm shift in office culture."},
-  {"id":55,"phrase":"reinvent the wheel","level":900,"meaning":"無駄な努力をする、既存のものを作り直す","example":"Don't reinvent the wheel—use the existing framework."},
-  {"id":56,"phrase":"silver bullet","level":900,"meaning":"万能薬、一発解決策","example":"There is no silver bullet for improving employee morale."},
-  {"id":57,"phrase":"watershed moment","level":900,"meaning":"転換点、画期的な瞬間","example":"The merger was a watershed moment for the industry."},
-  {"id":58,"phrase":"navigate uncertainty","level":900,"meaning":"不確実性を乗り越える","example":"Leaders must learn to navigate uncertainty effectively."},
-  {"id":59,"phrase":"punch above one's weight","level":900,"meaning":"実力以上のことをする","example":"The startup has been punching above its weight in the market."},
-  {"id":60,"phrase":"leverage one's strengths","level":900,"meaning":"強みを活用する","example":"A good leader knows how to leverage their team's strengths."}
+  {
+    "id": 1,
+    "phrase": "as soon as possible",
+    "level": 600,
+    "meaning": "できるだけ早く",
+    "example": "Please send the report as soon as possible."
+  },
+  {
+    "id": 2,
+    "phrase": "at the moment",
+    "level": 600,
+    "meaning": "今のところ、現在は",
+    "example": "I am busy at the moment. Can I call you back?"
+  },
+  {
+    "id": 3,
+    "phrase": "fill out a form",
+    "level": 600,
+    "meaning": "書類に記入する",
+    "example": "Please fill out this form with your personal information."
+  },
+  {
+    "id": 4,
+    "phrase": "get in touch",
+    "level": 600,
+    "meaning": "連絡を取る",
+    "example": "Feel free to get in touch if you have any questions."
+  },
+  {
+    "id": 5,
+    "phrase": "give someone a call",
+    "level": 600,
+    "meaning": "電話をかける",
+    "example": "I'll give you a call when I arrive at the office."
+  },
+  {
+    "id": 6,
+    "phrase": "in charge of",
+    "level": 600,
+    "meaning": "～を担当して",
+    "example": "Who is in charge of the marketing campaign?"
+  },
+  {
+    "id": 7,
+    "phrase": "in time for",
+    "level": 600,
+    "meaning": "～に間に合って",
+    "example": "We finished the project in time for the deadline."
+  },
+  {
+    "id": 8,
+    "phrase": "look forward to",
+    "level": 600,
+    "meaning": "～を楽しみにする",
+    "example": "I look forward to meeting you next week."
+  },
+  {
+    "id": 9,
+    "phrase": "make a decision",
+    "level": 600,
+    "meaning": "決断する",
+    "example": "We need to make a decision about the new supplier."
+  },
+  {
+    "id": 10,
+    "phrase": "on behalf of",
+    "level": 600,
+    "meaning": "～を代表して",
+    "example": "I am writing on behalf of our CEO."
+  },
+  {
+    "id": 11,
+    "phrase": "out of stock",
+    "level": 600,
+    "meaning": "在庫切れ",
+    "example": "This item is currently out of stock."
+  },
+  {
+    "id": 12,
+    "phrase": "place an order",
+    "level": 600,
+    "meaning": "注文する",
+    "example": "We would like to place an order for 200 units."
+  },
+  {
+    "id": 13,
+    "phrase": "take a break",
+    "level": 600,
+    "meaning": "休憩する",
+    "example": "Let's take a break and continue after lunch."
+  },
+  {
+    "id": 14,
+    "phrase": "work on",
+    "level": 600,
+    "meaning": "～に取り組む",
+    "example": "She is working on a new proposal for the client."
+  },
+  {
+    "id": 15,
+    "phrase": "by the end of",
+    "level": 600,
+    "meaning": "～の終わりまでに",
+    "example": "Please submit your report by the end of the week."
+  },
+  {
+    "id": 16,
+    "phrase": "ahead of schedule",
+    "level": 700,
+    "meaning": "予定より早く",
+    "example": "The construction project was completed ahead of schedule."
+  },
+  {
+    "id": 17,
+    "phrase": "as a result",
+    "level": 700,
+    "meaning": "その結果",
+    "example": "Sales increased. As a result, we hired more staff."
+  },
+  {
+    "id": 18,
+    "phrase": "at your earliest convenience",
+    "level": 700,
+    "meaning": "ご都合のよい時に",
+    "example": "Please call me back at your earliest convenience."
+  },
+  {
+    "id": 19,
+    "phrase": "be responsible for",
+    "level": 700,
+    "meaning": "～に責任がある",
+    "example": "She is responsible for managing the accounts."
+  },
+  {
+    "id": 20,
+    "phrase": "bring up",
+    "level": 700,
+    "meaning": "提起する、話題にする",
+    "example": "He brought up an important issue during the meeting."
+  },
+  {
+    "id": 21,
+    "phrase": "carry out",
+    "level": 700,
+    "meaning": "実施する、実行する",
+    "example": "We will carry out the survey next month."
+  },
+  {
+    "id": 22,
+    "phrase": "come up with",
+    "level": 700,
+    "meaning": "思いつく、考え出す",
+    "example": "Can you come up with a solution by tomorrow?"
+  },
+  {
+    "id": 23,
+    "phrase": "cut costs",
+    "level": 700,
+    "meaning": "コストを削減する",
+    "example": "We must find ways to cut costs this quarter."
+  },
+  {
+    "id": 24,
+    "phrase": "deal with",
+    "level": 700,
+    "meaning": "対処する、処理する",
+    "example": "How do you plan to deal with this customer complaint?"
+  },
+  {
+    "id": 25,
+    "phrase": "fall behind schedule",
+    "level": 700,
+    "meaning": "予定より遅れる",
+    "example": "The project has fallen behind schedule due to delays."
+  },
+  {
+    "id": 26,
+    "phrase": "follow up on",
+    "level": 700,
+    "meaning": "フォローアップする",
+    "example": "I will follow up on the proposal I sent last week."
+  },
+  {
+    "id": 27,
+    "phrase": "go over",
+    "level": 700,
+    "meaning": "見直す、検討する",
+    "example": "Let's go over the details of the contract together."
+  },
+  {
+    "id": 28,
+    "phrase": "hand in",
+    "level": 700,
+    "meaning": "提出する",
+    "example": "Please hand in your report by Friday afternoon."
+  },
+  {
+    "id": 29,
+    "phrase": "keep track of",
+    "level": 700,
+    "meaning": "～を把握する、追跡する",
+    "example": "It is important to keep track of all expenses."
+  },
+  {
+    "id": 30,
+    "phrase": "draw attention to",
+    "level": 700,
+    "meaning": "～に注意を向ける",
+    "example": "I want to draw attention to the budget discrepancy."
+  },
+  {
+    "id": 31,
+    "phrase": "across the board",
+    "level": 800,
+    "meaning": "全体的に、全部門で",
+    "example": "Salaries were cut across the board during the recession."
+  },
+  {
+    "id": 32,
+    "phrase": "at stake",
+    "level": 800,
+    "meaning": "危機にさらされて",
+    "example": "Our company's reputation is at stake if we fail."
+  },
+  {
+    "id": 33,
+    "phrase": "bear in mind",
+    "level": 800,
+    "meaning": "念頭に置く",
+    "example": "Bear in mind that the budget is limited."
+  },
+  {
+    "id": 34,
+    "phrase": "bottom line",
+    "level": 800,
+    "meaning": "最終損益、要点",
+    "example": "The bottom line is that we need to increase revenue."
+  },
+  {
+    "id": 35,
+    "phrase": "break even",
+    "level": 800,
+    "meaning": "損益分岐点に達する",
+    "example": "The company expects to break even by the third quarter."
+  },
+  {
+    "id": 36,
+    "phrase": "bring to the table",
+    "level": 800,
+    "meaning": "貢献する、もたらす",
+    "example": "What unique skills can you bring to the table?"
+  },
+  {
+    "id": 37,
+    "phrase": "capitalize on",
+    "level": 800,
+    "meaning": "～を利用する、活用する",
+    "example": "We should capitalize on this growing trend."
+  },
+  {
+    "id": 38,
+    "phrase": "cut corners",
+    "level": 800,
+    "meaning": "手を抜く、コストを切り詰める",
+    "example": "Never cut corners when it comes to product safety."
+  },
+  {
+    "id": 39,
+    "phrase": "get off the ground",
+    "level": 800,
+    "meaning": "軌道に乗る、始まる",
+    "example": "The new initiative finally got off the ground."
+  },
+  {
+    "id": 40,
+    "phrase": "in the pipeline",
+    "level": 800,
+    "meaning": "計画中の、進行中の",
+    "example": "We have several new products in the pipeline."
+  },
+  {
+    "id": 41,
+    "phrase": "level the playing field",
+    "level": 800,
+    "meaning": "公平な競争環境を作る",
+    "example": "The new regulations will level the playing field for all companies."
+  },
+  {
+    "id": 42,
+    "phrase": "move the needle",
+    "level": 800,
+    "meaning": "変化をもたらす、影響を与える",
+    "example": "The new marketing campaign really moved the needle on sales."
+  },
+  {
+    "id": 43,
+    "phrase": "on the same page",
+    "level": 800,
+    "meaning": "同じ認識を持っている",
+    "example": "Let's make sure we're on the same page before the meeting."
+  },
+  {
+    "id": 44,
+    "phrase": "take the lead",
+    "level": 800,
+    "meaning": "主導権を取る、先頭に立つ",
+    "example": "Our company will take the lead in sustainable packaging."
+  },
+  {
+    "id": 45,
+    "phrase": "think outside the box",
+    "level": 800,
+    "meaning": "固定観念にとらわれずに考える",
+    "example": "We need to think outside the box to solve this problem."
+  },
+  {
+    "id": 46,
+    "phrase": "above and beyond",
+    "level": 900,
+    "meaning": "期待以上のことをする",
+    "example": "She went above and beyond to help the client."
+  },
+  {
+    "id": 47,
+    "phrase": "at the forefront",
+    "level": 900,
+    "meaning": "最前線に、先頭に",
+    "example": "Our company is at the forefront of AI technology."
+  },
+  {
+    "id": 48,
+    "phrase": "behind the scenes",
+    "level": 900,
+    "meaning": "舞台裏で、表に出ずに",
+    "example": "A lot of work was done behind the scenes to make this possible."
+  },
+  {
+    "id": 49,
+    "phrase": "by the book",
+    "level": 900,
+    "meaning": "規則通りに、正式に",
+    "example": "We always do everything by the book in this company."
+  },
+  {
+    "id": 50,
+    "phrase": "cut to the chase",
+    "level": 900,
+    "meaning": "要点に迫る、本題に入る",
+    "example": "Let's cut to the chase—what is the actual problem?"
+  },
+  {
+    "id": 51,
+    "phrase": "drill down",
+    "level": 900,
+    "meaning": "詳細を掘り下げる",
+    "example": "We need to drill down into the data to find the cause."
+  },
+  {
+    "id": 52,
+    "phrase": "going forward",
+    "level": 900,
+    "meaning": "今後は、これからは",
+    "example": "Going forward, all approvals must be documented."
+  },
+  {
+    "id": 53,
+    "phrase": "in the red",
+    "level": 900,
+    "meaning": "赤字で、損失が出ている",
+    "example": "The company has been in the red for three consecutive years."
+  },
+  {
+    "id": 54,
+    "phrase": "paradigm shift",
+    "level": 900,
+    "meaning": "パラダイムシフト、大転換",
+    "example": "Remote work represents a paradigm shift in office culture."
+  },
+  {
+    "id": 55,
+    "phrase": "reinvent the wheel",
+    "level": 900,
+    "meaning": "無駄な努力をする、既存のものを作り直す",
+    "example": "Don't reinvent the wheel—use the existing framework."
+  },
+  {
+    "id": 56,
+    "phrase": "silver bullet",
+    "level": 900,
+    "meaning": "万能薬、一発解決策",
+    "example": "There is no silver bullet for improving employee morale."
+  },
+  {
+    "id": 57,
+    "phrase": "watershed moment",
+    "level": 900,
+    "meaning": "転換点、画期的な瞬間",
+    "example": "The merger was a watershed moment for the industry."
+  },
+  {
+    "id": 58,
+    "phrase": "navigate uncertainty",
+    "level": 900,
+    "meaning": "不確実性を乗り越える",
+    "example": "Leaders must learn to navigate uncertainty effectively."
+  },
+  {
+    "id": 59,
+    "phrase": "punch above one's weight",
+    "level": 900,
+    "meaning": "実力以上のことをする",
+    "example": "The startup has been punching above its weight in the market."
+  },
+  {
+    "id": 60,
+    "phrase": "leverage one's strengths",
+    "level": 900,
+    "meaning": "強みを活用する",
+    "example": "A good leader knows how to leverage their team's strengths."
+  },
+  {
+    "id": 61,
+    "phrase": "put off",
+    "level": 600,
+    "meaning": "延期する",
+    "example": "We had to put off the meeting until next week."
+  },
+  {
+    "id": 62,
+    "phrase": "run out of",
+    "level": 600,
+    "meaning": "〜を使い果たす、〜が切れる",
+    "example": "We are running out of printer paper."
+  },
+  {
+    "id": 63,
+    "phrase": "set up",
+    "level": 600,
+    "meaning": "設定する、設立する",
+    "example": "Please set up a meeting with the client for next week."
+  },
+  {
+    "id": 64,
+    "phrase": "take care of",
+    "level": 600,
+    "meaning": "〜の世話をする、〜を担当する",
+    "example": "I will take care of the arrangements for the conference."
+  },
+  {
+    "id": 65,
+    "phrase": "turn down",
+    "level": 600,
+    "meaning": "断る、却下する",
+    "example": "The client turned down our initial proposal."
+  },
+  {
+    "id": 66,
+    "phrase": "call off",
+    "level": 600,
+    "meaning": "中止する",
+    "example": "The outdoor event was called off due to rain."
+  },
+  {
+    "id": 67,
+    "phrase": "check in",
+    "level": 600,
+    "meaning": "チェックインする、確認する",
+    "example": "Please check in with me before sending the report."
+  },
+  {
+    "id": 68,
+    "phrase": "check out",
+    "level": 600,
+    "meaning": "チェックアウトする、確認する",
+    "example": "Please check out the new software before the meeting."
+  },
+  {
+    "id": 69,
+    "phrase": "come across",
+    "level": 600,
+    "meaning": "偶然出会う、〜の印象を与える",
+    "example": "She comes across as very professional."
+  },
+  {
+    "id": 70,
+    "phrase": "deal in",
+    "level": 600,
+    "meaning": "〜を取り扱う",
+    "example": "Our company deals in industrial equipment."
+  },
+  {
+    "id": 71,
+    "phrase": "drop off",
+    "level": 600,
+    "meaning": "降ろす、減少する",
+    "example": "Please drop off the documents at reception."
+  },
+  {
+    "id": 72,
+    "phrase": "end up",
+    "level": 600,
+    "meaning": "最終的に〜になる",
+    "example": "We ended up choosing the cheaper option."
+  },
+  {
+    "id": 73,
+    "phrase": "figure out",
+    "level": 600,
+    "meaning": "理解する、解決する",
+    "example": "We need to figure out a solution by tomorrow."
+  },
+  {
+    "id": 74,
+    "phrase": "get along",
+    "level": 600,
+    "meaning": "うまくやる",
+    "example": "She gets along well with all her colleagues."
+  },
+  {
+    "id": 75,
+    "phrase": "give up",
+    "level": 600,
+    "meaning": "あきらめる",
+    "example": "We should not give up on this business opportunity."
+  },
+  {
+    "id": 76,
+    "phrase": "go ahead",
+    "level": 600,
+    "meaning": "進める、どうぞ",
+    "example": "You can go ahead and start the project."
+  },
+  {
+    "id": 77,
+    "phrase": "go back to",
+    "level": 600,
+    "meaning": "〜に戻る",
+    "example": "Let us go back to the original plan."
+  },
+  {
+    "id": 78,
+    "phrase": "grow out of",
+    "level": 600,
+    "meaning": "〜から生まれる",
+    "example": "This idea grew out of a customer request."
+  },
+  {
+    "id": 79,
+    "phrase": "keep in mind",
+    "level": 600,
+    "meaning": "念頭に置く",
+    "example": "Please keep in mind that the budget is limited."
+  },
+  {
+    "id": 80,
+    "phrase": "keep up with",
+    "level": 600,
+    "meaning": "〜についていく、〜に対応する",
+    "example": "It is hard to keep up with the rapid changes."
+  },
+  {
+    "id": 81,
+    "phrase": "lay out",
+    "level": 600,
+    "meaning": "説明する、配置する",
+    "example": "She laid out the project plan clearly."
+  },
+  {
+    "id": 82,
+    "phrase": "look into",
+    "level": 600,
+    "meaning": "調査する",
+    "example": "We need to look into the cause of the complaint."
+  },
+  {
+    "id": 83,
+    "phrase": "make sure",
+    "level": 600,
+    "meaning": "確認する、確実にする",
+    "example": "Please make sure the report is complete before submitting."
+  },
+  {
+    "id": 84,
+    "phrase": "make up for",
+    "level": 600,
+    "meaning": "補う、埋め合わせる",
+    "example": "We worked overtime to make up for the lost time."
+  },
+  {
+    "id": 85,
+    "phrase": "move on",
+    "level": 600,
+    "meaning": "次に進む",
+    "example": "Let us move on to the next item on the agenda."
+  },
+  {
+    "id": 86,
+    "phrase": "narrow down",
+    "level": 600,
+    "meaning": "絞り込む",
+    "example": "We need to narrow down the list of candidates."
+  },
+  {
+    "id": 87,
+    "phrase": "pass on",
+    "level": 600,
+    "meaning": "伝える、渡す",
+    "example": "Please pass on my message to the team."
+  },
+  {
+    "id": 88,
+    "phrase": "pick up",
+    "level": 600,
+    "meaning": "持ち直す、受け取る",
+    "example": "Business is starting to pick up after the slow season."
+  },
+  {
+    "id": 89,
+    "phrase": "point out",
+    "level": 600,
+    "meaning": "指摘する",
+    "example": "She pointed out an error in the report."
+  },
+  {
+    "id": 90,
+    "phrase": "put in place",
+    "level": 600,
+    "meaning": "実施する、導入する",
+    "example": "We need to put measures in place to prevent this."
+  },
+  {
+    "id": 91,
+    "phrase": "reach out",
+    "level": 600,
+    "meaning": "連絡する",
+    "example": "Please reach out if you need any assistance."
+  },
+  {
+    "id": 92,
+    "phrase": "run through",
+    "level": 600,
+    "meaning": "説明する、確認する",
+    "example": "Let me run through the main points of the proposal."
+  },
+  {
+    "id": 93,
+    "phrase": "see to it",
+    "level": 600,
+    "meaning": "確実にする",
+    "example": "Please see to it that all forms are submitted on time."
+  },
+  {
+    "id": 94,
+    "phrase": "sign up for",
+    "level": 600,
+    "meaning": "申し込む",
+    "example": "Please sign up for the training session online."
+  },
+  {
+    "id": 95,
+    "phrase": "sort out",
+    "level": 600,
+    "meaning": "解決する、整理する",
+    "example": "We need to sort out the scheduling conflict."
+  },
+  {
+    "id": 96,
+    "phrase": "stand out",
+    "level": 600,
+    "meaning": "目立つ",
+    "example": "Her proposal really stood out from the rest."
+  },
+  {
+    "id": 97,
+    "phrase": "step up",
+    "level": 600,
+    "meaning": "強化する、引き受ける",
+    "example": "We need to step up our marketing efforts."
+  },
+  {
+    "id": 98,
+    "phrase": "sum up",
+    "level": 600,
+    "meaning": "要約する",
+    "example": "Let me sum up the key points of today's discussion."
+  },
+  {
+    "id": 99,
+    "phrase": "take on",
+    "level": 600,
+    "meaning": "引き受ける",
+    "example": "She was asked to take on more responsibility."
+  },
+  {
+    "id": 100,
+    "phrase": "take over",
+    "level": 600,
+    "meaning": "引き継ぐ",
+    "example": "She will take over the project from next month."
+  },
+  {
+    "id": 101,
+    "phrase": "think through",
+    "level": 600,
+    "meaning": "よく考える",
+    "example": "Please think through the implications of this decision."
+  },
+  {
+    "id": 102,
+    "phrase": "tie up",
+    "level": 600,
+    "meaning": "完了する、まとめる",
+    "example": "We need to tie up a few loose ends before launch."
+  },
+  {
+    "id": 103,
+    "phrase": "try out",
+    "level": 600,
+    "meaning": "試す",
+    "example": "Please try out the new system and give us feedback."
+  },
+  {
+    "id": 104,
+    "phrase": "wind up",
+    "level": 600,
+    "meaning": "終わる、片付ける",
+    "example": "Let us wind up this meeting in the next ten minutes."
+  },
+  {
+    "id": 105,
+    "phrase": "work out",
+    "level": 600,
+    "meaning": "解決する、うまくいく",
+    "example": "I hope this new arrangement works out well for everyone."
+  },
+  {
+    "id": 106,
+    "phrase": "write up",
+    "level": 600,
+    "meaning": "まとめて書く",
+    "example": "Please write up the meeting notes and send them out."
+  },
+  {
+    "id": 107,
+    "phrase": "in advance",
+    "level": 600,
+    "meaning": "事前に",
+    "example": "Please book the room at least a week in advance."
+  },
+  {
+    "id": 108,
+    "phrase": "on time",
+    "level": 600,
+    "meaning": "時間通りに",
+    "example": "It is important to deliver all projects on time."
+  },
+  {
+    "id": 109,
+    "phrase": "up to date",
+    "level": 600,
+    "meaning": "最新の",
+    "example": "Please make sure all records are up to date."
+  },
+  {
+    "id": 110,
+    "phrase": "from now on",
+    "level": 600,
+    "meaning": "今後は",
+    "example": "From now on, all expenses must be pre-approved."
+  },
+  {
+    "id": 111,
+    "phrase": "at all times",
+    "level": 600,
+    "meaning": "常に",
+    "example": "Safety equipment must be worn at all times."
+  },
+  {
+    "id": 112,
+    "phrase": "by all means",
+    "level": 600,
+    "meaning": "ぜひとも、もちろん",
+    "example": "Please, by all means, feel free to ask any questions."
+  },
+  {
+    "id": 113,
+    "phrase": "as a whole",
+    "level": 600,
+    "meaning": "全体として",
+    "example": "As a whole, the project has been very successful."
+  },
+  {
+    "id": 114,
+    "phrase": "in full",
+    "level": 600,
+    "meaning": "全額、全部",
+    "example": "The invoice must be paid in full within thirty days."
+  },
+  {
+    "id": 115,
+    "phrase": "on a regular basis",
+    "level": 600,
+    "meaning": "定期的に",
+    "example": "We review performance on a regular basis."
+  },
+  {
+    "id": 116,
+    "phrase": "at short notice",
+    "level": 600,
+    "meaning": "急に、短い予告で",
+    "example": "Thank you for coming at such short notice."
+  },
+  {
+    "id": 117,
+    "phrase": "in writing",
+    "level": 600,
+    "meaning": "書面で",
+    "example": "All agreements must be confirmed in writing."
+  },
+  {
+    "id": 118,
+    "phrase": "for the time being",
+    "level": 600,
+    "meaning": "当面の間",
+    "example": "For the time being, please use the old system."
+  },
+  {
+    "id": 119,
+    "phrase": "up front",
+    "level": 600,
+    "meaning": "事前に、最初に",
+    "example": "We require a deposit of ten percent up front."
+  },
+  {
+    "id": 120,
+    "phrase": "in detail",
+    "level": 600,
+    "meaning": "詳しく",
+    "example": "Please explain the process in detail."
+  },
+  {
+    "id": 121,
+    "phrase": "at a glance",
+    "level": 600,
+    "meaning": "一目で",
+    "example": "The dashboard allows you to see all results at a glance."
+  },
+  {
+    "id": 122,
+    "phrase": "on a tight budget",
+    "level": 600,
+    "meaning": "予算が少なく",
+    "example": "We are working on a tight budget this quarter."
+  },
+  {
+    "id": 123,
+    "phrase": "in the long run",
+    "level": 600,
+    "meaning": "長期的に見て",
+    "example": "Investing in training pays off in the long run."
+  },
+  {
+    "id": 124,
+    "phrase": "ahead of time",
+    "level": 600,
+    "meaning": "予定より早く",
+    "example": "Please complete the report ahead of time if possible."
+  },
+  {
+    "id": 125,
+    "phrase": "free of charge",
+    "level": 600,
+    "meaning": "無料で",
+    "example": "Delivery is free of charge for orders over ten thousand yen."
+  },
+  {
+    "id": 126,
+    "phrase": "across the company",
+    "level": 600,
+    "meaning": "会社全体で",
+    "example": "The new policy will be applied across the company."
+  },
+  {
+    "id": 127,
+    "phrase": "in collaboration with",
+    "level": 600,
+    "meaning": "〜と協力して",
+    "example": "This project was completed in collaboration with our partner."
+  },
+  {
+    "id": 128,
+    "phrase": "at your convenience",
+    "level": 600,
+    "meaning": "ご都合の良い時に",
+    "example": "Please call me back at your convenience."
+  },
+  {
+    "id": 129,
+    "phrase": "in the near future",
+    "level": 600,
+    "meaning": "近い将来",
+    "example": "We plan to launch a new product in the near future."
+  },
+  {
+    "id": 130,
+    "phrase": "in addition to",
+    "level": 600,
+    "meaning": "〜に加えて",
+    "example": "In addition to the report, please include a summary."
+  },
+  {
+    "id": 131,
+    "phrase": "on a daily basis",
+    "level": 600,
+    "meaning": "毎日",
+    "example": "We review the figures on a daily basis."
+  },
+  {
+    "id": 132,
+    "phrase": "with respect to",
+    "level": 600,
+    "meaning": "〜に関して",
+    "example": "We have some questions with respect to the delivery schedule."
+  },
+  {
+    "id": 133,
+    "phrase": "at our earliest opportunity",
+    "level": 600,
+    "meaning": "できる限り早く",
+    "example": "We will respond at our earliest opportunity."
+  },
+  {
+    "id": 134,
+    "phrase": "in the event of",
+    "level": 600,
+    "meaning": "〜の場合に",
+    "example": "In the event of an emergency, please follow this procedure."
+  },
+  {
+    "id": 135,
+    "phrase": "at the latest",
+    "level": 600,
+    "meaning": "遅くとも",
+    "example": "Please submit the form by Monday at the latest."
+  },
+  {
+    "id": 136,
+    "phrase": "in the interim",
+    "level": 600,
+    "meaning": "その間に、暫定的に",
+    "example": "In the interim, the old policy will remain in effect."
+  },
+  {
+    "id": 137,
+    "phrase": "as a rule",
+    "level": 600,
+    "meaning": "原則として",
+    "example": "As a rule, all visitors must sign in at reception."
+  },
+  {
+    "id": 138,
+    "phrase": "in terms of",
+    "level": 600,
+    "meaning": "〜の点では",
+    "example": "In terms of quality, our product leads the market."
+  },
+  {
+    "id": 139,
+    "phrase": "on the condition that",
+    "level": 600,
+    "meaning": "〜という条件で",
+    "example": "We will proceed on the condition that costs are kept down."
+  },
+  {
+    "id": 140,
+    "phrase": "take into account",
+    "level": 600,
+    "meaning": "考慮する",
+    "example": "Please take into account the client's requirements."
+  },
+  {
+    "id": 141,
+    "phrase": "be in charge",
+    "level": 600,
+    "meaning": "担当している",
+    "example": "Who is in charge of the accounts receivable department?"
+  },
+  {
+    "id": 142,
+    "phrase": "make a note of",
+    "level": 600,
+    "meaning": "メモする",
+    "example": "Please make a note of all the action items from the meeting."
+  },
+  {
+    "id": 143,
+    "phrase": "be in contact with",
+    "level": 600,
+    "meaning": "〜と連絡を取る",
+    "example": "Are you in contact with the overseas supplier?"
+  },
+  {
+    "id": 144,
+    "phrase": "give notice",
+    "level": 600,
+    "meaning": "通知する、予告する",
+    "example": "Please give at least two weeks' notice before taking leave."
+  },
+  {
+    "id": 145,
+    "phrase": "be up to date",
+    "level": 600,
+    "meaning": "最新の情報を持っている",
+    "example": "Please make sure you are up to date on the new procedures."
+  },
+  {
+    "id": 146,
+    "phrase": "get back to",
+    "level": 600,
+    "meaning": "〜に折り返し連絡する",
+    "example": "I will get back to you as soon as I have an answer."
+  },
+  {
+    "id": 147,
+    "phrase": "be in line with",
+    "level": 600,
+    "meaning": "〜に沿っている",
+    "example": "The proposal is in line with our strategic goals."
+  },
+  {
+    "id": 148,
+    "phrase": "take effect",
+    "level": 600,
+    "meaning": "発効する、効力を発する",
+    "example": "The new policy will take effect from the first of next month."
+  },
+  {
+    "id": 149,
+    "phrase": "be on track",
+    "level": 600,
+    "meaning": "順調に進んでいる",
+    "example": "The project is on track for completion by the deadline."
+  },
+  {
+    "id": 150,
+    "phrase": "bear the cost",
+    "level": 600,
+    "meaning": "費用を負担する",
+    "example": "The client agreed to bear the cost of the modifications."
+  },
+  {
+    "id": 151,
+    "phrase": "cover the cost",
+    "level": 600,
+    "meaning": "費用を賄う",
+    "example": "The budget is sufficient to cover the cost of the event."
+  },
+  {
+    "id": 152,
+    "phrase": "in excess of",
+    "level": 600,
+    "meaning": "〜を超えて",
+    "example": "Applications in excess of one thousand were received."
+  },
+  {
+    "id": 153,
+    "phrase": "be aware of",
+    "level": 600,
+    "meaning": "〜を認識している",
+    "example": "Please be aware of the risks before proceeding."
+  },
+  {
+    "id": 154,
+    "phrase": "make contact",
+    "level": 600,
+    "meaning": "連絡する",
+    "example": "Please make contact with the supplier to confirm delivery."
+  },
+  {
+    "id": 155,
+    "phrase": "take responsibility",
+    "level": 600,
+    "meaning": "責任を取る",
+    "example": "The manager took full responsibility for the error."
+  },
+  {
+    "id": 156,
+    "phrase": "put forward",
+    "level": 600,
+    "meaning": "提出する、提案する",
+    "example": "Several ideas were put forward during the brainstorming session."
+  },
+  {
+    "id": 157,
+    "phrase": "give an update",
+    "level": 600,
+    "meaning": "状況を伝える",
+    "example": "Please give us an update on the project status."
+  },
+  {
+    "id": 158,
+    "phrase": "take the initiative",
+    "level": 600,
+    "meaning": "率先して行動する",
+    "example": "She took the initiative and solved the problem."
+  },
+  {
+    "id": 159,
+    "phrase": "bring forward",
+    "level": 600,
+    "meaning": "早める、前倒しにする",
+    "example": "We have brought the deadline forward by one week."
+  },
+  {
+    "id": 160,
+    "phrase": "make progress",
+    "level": 600,
+    "meaning": "進捗する",
+    "example": "We are making good progress on the new system."
+  },
+  {
+    "id": 161,
+    "phrase": "set a deadline",
+    "level": 600,
+    "meaning": "締め切りを設定する",
+    "example": "Please set a realistic deadline for each task."
+  },
+  {
+    "id": 162,
+    "phrase": "go through",
+    "level": 600,
+    "meaning": "確認する",
+    "example": "Let us go through the contract together."
+  },
+  {
+    "id": 163,
+    "phrase": "have a meeting",
+    "level": 600,
+    "meaning": "会議を開く",
+    "example": "We will have a meeting to discuss the results."
+  },
+  {
+    "id": 164,
+    "phrase": "confirm receipt",
+    "level": 600,
+    "meaning": "受領を確認する",
+    "example": "Please confirm receipt of this email."
+  },
+  {
+    "id": 165,
+    "phrase": "be subject to",
+    "level": 600,
+    "meaning": "〜の対象となる",
+    "example": "All prices are subject to change without notice."
+  },
+  {
+    "id": 166,
+    "phrase": "carry forward",
+    "level": 600,
+    "meaning": "繰り越す",
+    "example": "Any unused budget will be carried forward to next year."
+  },
+  {
+    "id": 167,
+    "phrase": "take a look",
+    "level": 600,
+    "meaning": "確認する",
+    "example": "Please take a look at the attached report."
+  },
+  {
+    "id": 168,
+    "phrase": "bring about",
+    "level": 600,
+    "meaning": "もたらす、引き起こす",
+    "example": "The new technology brought about significant improvements."
+  },
+  {
+    "id": 169,
+    "phrase": "be committed to",
+    "level": 600,
+    "meaning": "〜に取り組んでいる",
+    "example": "We are committed to delivering the best service possible."
+  },
+  {
+    "id": 170,
+    "phrase": "without delay",
+    "level": 600,
+    "meaning": "すぐに",
+    "example": "Please respond without delay to this urgent request."
+  },
+  {
+    "id": 171,
+    "phrase": "at face value",
+    "level": 700,
+    "meaning": "額面通りに",
+    "example": "Do not take the client's claims at face value."
+  },
+  {
+    "id": 172,
+    "phrase": "back to basics",
+    "level": 700,
+    "meaning": "基本に戻る",
+    "example": "Sometimes we need to go back to basics to improve."
+  },
+  {
+    "id": 173,
+    "phrase": "ball is in your court",
+    "level": 700,
+    "meaning": "あなたの番です",
+    "example": "We have made our offer. Now the ball is in your court."
+  },
+  {
+    "id": 174,
+    "phrase": "bite the bullet",
+    "level": 700,
+    "meaning": "困難を乗り越える",
+    "example": "We need to bite the bullet and cut the budget."
+  },
+  {
+    "id": 175,
+    "phrase": "break new ground",
+    "level": 700,
+    "meaning": "新境地を開く",
+    "example": "This product really breaks new ground in the industry."
+  },
+  {
+    "id": 176,
+    "phrase": "bring to light",
+    "level": 700,
+    "meaning": "明らかにする",
+    "example": "The investigation brought to light several issues."
+  },
+  {
+    "id": 177,
+    "phrase": "burning question",
+    "level": 700,
+    "meaning": "最重要の問題",
+    "example": "The burning question is how to retain our top talent."
+  },
+  {
+    "id": 178,
+    "phrase": "by and large",
+    "level": 700,
+    "meaning": "概して、全般的に",
+    "example": "By and large, the project has been a success."
+  },
+  {
+    "id": 179,
+    "phrase": "call the shots",
+    "level": 700,
+    "meaning": "主導権を握る",
+    "example": "Who is calling the shots in this project?"
+  },
+  {
+    "id": 180,
+    "phrase": "chain of command",
+    "level": 700,
+    "meaning": "指揮系統",
+    "example": "Please follow the proper chain of command."
+  },
+  {
+    "id": 181,
+    "phrase": "clear the air",
+    "level": 700,
+    "meaning": "誤解をなくす",
+    "example": "Let us have a meeting to clear the air."
+  },
+  {
+    "id": 182,
+    "phrase": "come to terms with",
+    "level": 700,
+    "meaning": "〜を受け入れる",
+    "example": "We need to come to terms with the new market reality."
+  },
+  {
+    "id": 183,
+    "phrase": "corner the market",
+    "level": 700,
+    "meaning": "市場を独占する",
+    "example": "They have cornered the market on industrial sensors."
+  },
+  {
+    "id": 184,
+    "phrase": "crunch the numbers",
+    "level": 700,
+    "meaning": "数字を計算する",
+    "example": "Let me crunch the numbers and get back to you."
+  },
+  {
+    "id": 185,
+    "phrase": "dig deep",
+    "level": 700,
+    "meaning": "深く掘り下げる",
+    "example": "We need to dig deep to find the root cause."
+  },
+  {
+    "id": 186,
+    "phrase": "do the groundwork",
+    "level": 700,
+    "meaning": "基礎を固める",
+    "example": "We have done the groundwork for the new partnership."
+  },
+  {
+    "id": 187,
+    "phrase": "double-check",
+    "level": 700,
+    "meaning": "再確認する",
+    "example": "Please double-check the figures before submitting."
+  },
+  {
+    "id": 188,
+    "phrase": "draw the line",
+    "level": 700,
+    "meaning": "一線を引く",
+    "example": "We must draw the line when it comes to quality standards."
+  },
+  {
+    "id": 189,
+    "phrase": "drop the ball",
+    "level": 700,
+    "meaning": "失敗する、ミスをする",
+    "example": "We cannot afford to drop the ball on this project."
+  },
+  {
+    "id": 190,
+    "phrase": "face value",
+    "level": 700,
+    "meaning": "表面上の価値、額面",
+    "example": "We should not take the offer at face value."
+  },
+  {
+    "id": 191,
+    "phrase": "flesh out",
+    "level": 700,
+    "meaning": "詳細を加える",
+    "example": "Please flesh out the proposal with more specific details."
+  },
+  {
+    "id": 192,
+    "phrase": "foot the bill",
+    "level": 700,
+    "meaning": "費用を支払う",
+    "example": "Who is going to foot the bill for the renovation?"
+  },
+  {
+    "id": 193,
+    "phrase": "get a handle on",
+    "level": 700,
+    "meaning": "〜を理解する、把握する",
+    "example": "We need to get a handle on the situation quickly."
+  },
+  {
+    "id": 194,
+    "phrase": "get the ball rolling",
+    "level": 700,
+    "meaning": "始める、動き出す",
+    "example": "Let us get the ball rolling on this initiative."
+  },
+  {
+    "id": 195,
+    "phrase": "get up to speed",
+    "level": 700,
+    "meaning": "最新情報を把握する",
+    "example": "Please get the new hire up to speed on the project."
+  },
+  {
+    "id": 196,
+    "phrase": "give the green light",
+    "level": 700,
+    "meaning": "承認する、ゴーサインを出す",
+    "example": "The board gave the green light for the expansion."
+  },
+  {
+    "id": 197,
+    "phrase": "go the extra mile",
+    "level": 700,
+    "meaning": "一歩踏み込む、努力を惜しまない",
+    "example": "Our team always goes the extra mile for clients."
+  },
+  {
+    "id": 198,
+    "phrase": "ground rules",
+    "level": 700,
+    "meaning": "基本ルール",
+    "example": "Let us set some ground rules before starting."
+  },
+  {
+    "id": 199,
+    "phrase": "have a say",
+    "level": 700,
+    "meaning": "意見を述べる",
+    "example": "All stakeholders should have a say in this decision."
+  },
+  {
+    "id": 200,
+    "phrase": "have the edge",
+    "level": 700,
+    "meaning": "優位に立つ",
+    "example": "We have the edge over competitors in customer service."
+  },
+  {
+    "id": 201,
+    "phrase": "heads up",
+    "level": 700,
+    "meaning": "事前通知、予告",
+    "example": "I wanted to give you a heads up about the change."
+  },
+  {
+    "id": 202,
+    "phrase": "hit the ground running",
+    "level": 700,
+    "meaning": "素早くスタートする",
+    "example": "The new manager hit the ground running."
+  },
+  {
+    "id": 203,
+    "phrase": "hold the line",
+    "level": 700,
+    "meaning": "現状を維持する",
+    "example": "We need to hold the line on prices this quarter."
+  },
+  {
+    "id": 204,
+    "phrase": "in black and white",
+    "level": 700,
+    "meaning": "書面で、明確に",
+    "example": "Please get the agreement in black and white."
+  },
+  {
+    "id": 205,
+    "phrase": "in good faith",
+    "level": 700,
+    "meaning": "誠実に",
+    "example": "Both parties acted in good faith throughout the negotiations."
+  },
+  {
+    "id": 206,
+    "phrase": "keep a low profile",
+    "level": 700,
+    "meaning": "目立たないようにする",
+    "example": "The company kept a low profile during the investigation."
+  },
+  {
+    "id": 207,
+    "phrase": "keep the momentum going",
+    "level": 700,
+    "meaning": "勢いを維持する",
+    "example": "Let us keep the momentum going on this project."
+  },
+  {
+    "id": 208,
+    "phrase": "lay the groundwork",
+    "level": 700,
+    "meaning": "基盤を築く",
+    "example": "We need to lay the groundwork for a successful launch."
+  },
+  {
+    "id": 209,
+    "phrase": "leave no stone unturned",
+    "level": 700,
+    "meaning": "あらゆる手を尽くす",
+    "example": "We will leave no stone unturned to find a solution."
+  },
+  {
+    "id": 210,
+    "phrase": "level with someone",
+    "level": 700,
+    "meaning": "率直に話す",
+    "example": "Let me level with you about the risks involved."
+  },
+  {
+    "id": 211,
+    "phrase": "long shot",
+    "level": 700,
+    "meaning": "見込みが薄いこと",
+    "example": "It is a long shot, but we should try the new market."
+  },
+  {
+    "id": 212,
+    "phrase": "lose sight of",
+    "level": 700,
+    "meaning": "見失う",
+    "example": "We must not lose sight of our core objectives."
+  },
+  {
+    "id": 213,
+    "phrase": "make ends meet",
+    "level": 700,
+    "meaning": "やりくりする",
+    "example": "The small business is struggling to make ends meet."
+  },
+  {
+    "id": 214,
+    "phrase": "make headway",
+    "level": 700,
+    "meaning": "進展する",
+    "example": "We are making headway on the development project."
+  },
+  {
+    "id": 215,
+    "phrase": "make inroads",
+    "level": 700,
+    "meaning": "参入する",
+    "example": "We are making inroads into the Asian market."
+  },
+  {
+    "id": 216,
+    "phrase": "make waves",
+    "level": 700,
+    "meaning": "話題になる、波紋を広げる",
+    "example": "The new product launch made waves in the industry."
+  },
+  {
+    "id": 217,
+    "phrase": "miss the mark",
+    "level": 700,
+    "meaning": "目標を外す",
+    "example": "The campaign missed the mark with the target audience."
+  },
+  {
+    "id": 218,
+    "phrase": "move the goalposts",
+    "level": 700,
+    "meaning": "基準を変える",
+    "example": "Stop moving the goalposts mid-project."
+  },
+  {
+    "id": 219,
+    "phrase": "on the back burner",
+    "level": 700,
+    "meaning": "後回しにする",
+    "example": "That project is on the back burner for now."
+  },
+  {
+    "id": 220,
+    "phrase": "on the fence",
+    "level": 700,
+    "meaning": "どちらとも言えない",
+    "example": "The client is still on the fence about the proposal."
+  },
+  {
+    "id": 221,
+    "phrase": "on the front line",
+    "level": 700,
+    "meaning": "最前線で",
+    "example": "Our staff is on the front line of customer service."
+  },
+  {
+    "id": 222,
+    "phrase": "on the right track",
+    "level": 700,
+    "meaning": "正しい方向に進んでいる",
+    "example": "The team is on the right track to meet the target."
+  },
+  {
+    "id": 223,
+    "phrase": "out of the blue",
+    "level": 700,
+    "meaning": "突然",
+    "example": "The client cancelled the order out of the blue."
+  },
+  {
+    "id": 224,
+    "phrase": "pass the buck",
+    "level": 700,
+    "meaning": "責任を転嫁する",
+    "example": "We should solve problems here, not pass the buck."
+  },
+  {
+    "id": 225,
+    "phrase": "pay off",
+    "level": 700,
+    "meaning": "報われる、完済する",
+    "example": "Our investment in training is starting to pay off."
+  },
+  {
+    "id": 226,
+    "phrase": "pick someone's brain",
+    "level": 700,
+    "meaning": "知恵を借りる",
+    "example": "Can I pick your brain about the new software?"
+  },
+  {
+    "id": 227,
+    "phrase": "play it safe",
+    "level": 700,
+    "meaning": "安全策を取る",
+    "example": "We will play it safe and test the market first."
+  },
+  {
+    "id": 228,
+    "phrase": "pave the way",
+    "level": 700,
+    "meaning": "道を開く",
+    "example": "This research paved the way for our new product."
+  },
+  {
+    "id": 229,
+    "phrase": "pull strings",
+    "level": 700,
+    "meaning": "裏工作をする",
+    "example": "We do not pull strings to win contracts."
+  },
+  {
+    "id": 230,
+    "phrase": "put all your eggs in one basket",
+    "level": 700,
+    "meaning": "一つに集中してリスクを取る",
+    "example": "Do not put all your eggs in one basket."
+  },
+  {
+    "id": 231,
+    "phrase": "raise the bar",
+    "level": 700,
+    "meaning": "基準を高める",
+    "example": "We aim to raise the bar in customer satisfaction."
+  },
+  {
+    "id": 232,
+    "phrase": "red tape",
+    "level": 700,
+    "meaning": "お役所仕事、煩雑な手続き",
+    "example": "Getting permits involves a lot of red tape."
+  },
+  {
+    "id": 233,
+    "phrase": "rise to the occasion",
+    "level": 700,
+    "meaning": "状況に対処する",
+    "example": "The team rose to the occasion when the crisis hit."
+  },
+  {
+    "id": 234,
+    "phrase": "room for improvement",
+    "level": 700,
+    "meaning": "改善の余地",
+    "example": "There is certainly room for improvement in this area."
+  },
+  {
+    "id": 235,
+    "phrase": "run the show",
+    "level": 700,
+    "meaning": "取り仕切る",
+    "example": "She runs the show in the Asia-Pacific division."
+  },
+  {
+    "id": 236,
+    "phrase": "seal the deal",
+    "level": 700,
+    "meaning": "成立させる",
+    "example": "We need one more meeting to seal the deal."
+  },
+  {
+    "id": 237,
+    "phrase": "see eye to eye",
+    "level": 700,
+    "meaning": "意見が一致する",
+    "example": "We do not always see eye to eye but respect each other."
+  },
+  {
+    "id": 238,
+    "phrase": "set the tone",
+    "level": 700,
+    "meaning": "方向性を決める",
+    "example": "The new CEO set the tone for a new era of growth."
+  },
+  {
+    "id": 239,
+    "phrase": "set the wheels in motion",
+    "level": 700,
+    "meaning": "動き出す",
+    "example": "Let us set the wheels in motion for the new project."
+  },
+  {
+    "id": 240,
+    "phrase": "shake things up",
+    "level": 700,
+    "meaning": "変化をもたらす",
+    "example": "The new hire is expected to shake things up."
+  },
+  {
+    "id": 241,
+    "phrase": "short-term thinking",
+    "level": 700,
+    "meaning": "短期的な思考",
+    "example": "We need to avoid short-term thinking in our strategy."
+  },
+  {
+    "id": 242,
+    "phrase": "shoulder the burden",
+    "level": 700,
+    "meaning": "負担を引き受ける",
+    "example": "The manager shouldered the burden of the overtime work."
+  },
+  {
+    "id": 243,
+    "phrase": "show the ropes",
+    "level": 700,
+    "meaning": "やり方を教える",
+    "example": "Please show the new employee the ropes."
+  },
+  {
+    "id": 244,
+    "phrase": "sink or swim",
+    "level": 700,
+    "meaning": "自力でやっていくしかない",
+    "example": "In this market, it is sink or swim."
+  },
+  {
+    "id": 245,
+    "phrase": "speak volumes",
+    "level": 700,
+    "meaning": "多くを語る",
+    "example": "The low turnover rate speaks volumes about our culture."
+  },
+  {
+    "id": 246,
+    "phrase": "square peg in a round hole",
+    "level": 700,
+    "meaning": "場違いな人、不適切な配置",
+    "example": "Putting her in accounting was a square peg in a round hole."
+  },
+  {
+    "id": 247,
+    "phrase": "step out of one's comfort zone",
+    "level": 700,
+    "meaning": "コンフォートゾーンを出る",
+    "example": "Growth requires stepping out of your comfort zone."
+  },
+  {
+    "id": 248,
+    "phrase": "string of successes",
+    "level": 700,
+    "meaning": "連続した成功",
+    "example": "We have had a string of successes this year."
+  },
+  {
+    "id": 249,
+    "phrase": "sweeten the deal",
+    "level": 700,
+    "meaning": "条件を良くする",
+    "example": "They offered free delivery to sweeten the deal."
+  },
+  {
+    "id": 250,
+    "phrase": "take stock of",
+    "level": 700,
+    "meaning": "評価する、見直す",
+    "example": "Let us take stock of what we have achieved this year."
+  },
+  {
+    "id": 251,
+    "phrase": "talk through",
+    "level": 700,
+    "meaning": "詳しく話し合う",
+    "example": "Let us talk through the implementation plan."
+  },
+  {
+    "id": 252,
+    "phrase": "the bottom line is",
+    "level": 700,
+    "meaning": "結論は〜だ",
+    "example": "The bottom line is that we need to cut costs."
+  },
+  {
+    "id": 253,
+    "phrase": "the bigger picture",
+    "level": 700,
+    "meaning": "全体像",
+    "example": "Please look at the bigger picture before deciding."
+  },
+  {
+    "id": 254,
+    "phrase": "through thick and thin",
+    "level": 700,
+    "meaning": "どんな困難にも",
+    "example": "The team has stayed committed through thick and thin."
+  },
+  {
+    "id": 255,
+    "phrase": "throw in the towel",
+    "level": 700,
+    "meaning": "あきらめる",
+    "example": "We should not throw in the towel on this market."
+  },
+  {
+    "id": 256,
+    "phrase": "tick all the boxes",
+    "level": 700,
+    "meaning": "全条件を満たす",
+    "example": "This candidate ticks all the boxes for the role."
+  },
+  {
+    "id": 257,
+    "phrase": "tip of the iceberg",
+    "level": 700,
+    "meaning": "氷山の一角",
+    "example": "The reported loss is just the tip of the iceberg."
+  },
+  {
+    "id": 258,
+    "phrase": "track record",
+    "level": 700,
+    "meaning": "実績",
+    "example": "She has an excellent track record in sales."
+  },
+  {
+    "id": 259,
+    "phrase": "trial and error",
+    "level": 700,
+    "meaning": "試行錯誤",
+    "example": "Finding the right approach required some trial and error."
+  },
+  {
+    "id": 260,
+    "phrase": "turn over a new leaf",
+    "level": 700,
+    "meaning": "心機一転する",
+    "example": "After the review, the company turned over a new leaf."
+  },
+  {
+    "id": 261,
+    "phrase": "under pressure",
+    "level": 700,
+    "meaning": "プレッシャーの下で",
+    "example": "The team performs well even under pressure."
+  },
+  {
+    "id": 262,
+    "phrase": "up in the air",
+    "level": 700,
+    "meaning": "未定の、宙に浮いた",
+    "example": "The merger decision is still up in the air."
+  },
+  {
+    "id": 263,
+    "phrase": "walk the talk",
+    "level": 700,
+    "meaning": "言ったことを実践する",
+    "example": "Our leaders must walk the talk on company values."
+  },
+  {
+    "id": 264,
+    "phrase": "weigh the pros and cons",
+    "level": 700,
+    "meaning": "長所と短所を比べる",
+    "example": "Let us weigh the pros and cons before deciding."
+  },
+  {
+    "id": 265,
+    "phrase": "with flying colors",
+    "level": 700,
+    "meaning": "優秀な成績で",
+    "example": "The team passed the quality audit with flying colors."
+  },
+  {
+    "id": 266,
+    "phrase": "within reach",
+    "level": 700,
+    "meaning": "届く範囲で、実現可能で",
+    "example": "Our targets are ambitious but within reach."
+  },
+  {
+    "id": 267,
+    "phrase": "work hand in hand",
+    "level": 700,
+    "meaning": "緊密に協力する",
+    "example": "The two teams must work hand in hand to succeed."
+  },
+  {
+    "id": 268,
+    "phrase": "zero in on",
+    "level": 700,
+    "meaning": "集中する、絞り込む",
+    "example": "Let us zero in on the key challenges for this quarter."
+  },
+  {
+    "id": 269,
+    "phrase": "ahead of the curve",
+    "level": 800,
+    "meaning": "時代の先を行く",
+    "example": "Our R&D team is consistently ahead of the curve."
+  },
+  {
+    "id": 270,
+    "phrase": "bang for the buck",
+    "level": 800,
+    "meaning": "費用対効果",
+    "example": "We need to get the best bang for the buck."
+  },
+  {
+    "id": 271,
+    "phrase": "be in safe hands",
+    "level": 800,
+    "meaning": "安心して任せられる",
+    "example": "With our new manager, the project is in safe hands."
+  },
+  {
+    "id": 272,
+    "phrase": "behind schedule",
+    "level": 800,
+    "meaning": "予定より遅れている",
+    "example": "The development phase is slightly behind schedule."
+  },
+  {
+    "id": 273,
+    "phrase": "benefit of the doubt",
+    "level": 800,
+    "meaning": "疑わしきは罰せず",
+    "example": "Let us give the new process the benefit of the doubt."
+  },
+  {
+    "id": 274,
+    "phrase": "birds-eye view",
+    "level": 800,
+    "meaning": "全体像、鳥瞰図",
+    "example": "Let me give you a bird's-eye view of the strategy."
+  },
+  {
+    "id": 275,
+    "phrase": "bridge the gap",
+    "level": 800,
+    "meaning": "ギャップを埋める",
+    "example": "This initiative aims to bridge the gap between teams."
+  },
+  {
+    "id": 276,
+    "phrase": "bring to the forefront",
+    "level": 800,
+    "meaning": "前面に出す",
+    "example": "The report brings the data quality issue to the forefront."
+  },
+  {
+    "id": 277,
+    "phrase": "by the same token",
+    "level": 800,
+    "meaning": "同様に",
+    "example": "By the same token, all departments must reduce spending."
+  },
+  {
+    "id": 278,
+    "phrase": "calling card",
+    "level": 800,
+    "meaning": "特徴、代名詞",
+    "example": "Superior service is our calling card in this market."
+  },
+  {
+    "id": 279,
+    "phrase": "cast a wide net",
+    "level": 800,
+    "meaning": "広く探す",
+    "example": "We are casting a wide net in our recruitment drive."
+  },
+  {
+    "id": 280,
+    "phrase": "change of tack",
+    "level": 800,
+    "meaning": "方針転換",
+    "example": "After the poor results, we made a change of tack."
+  },
+  {
+    "id": 281,
+    "phrase": "close the loop",
+    "level": 800,
+    "meaning": "フォローアップする",
+    "example": "Let us close the loop on last month's action items."
+  },
+  {
+    "id": 282,
+    "phrase": "common ground",
+    "level": 800,
+    "meaning": "共通の基盤",
+    "example": "We need to find common ground with the union."
+  },
+  {
+    "id": 283,
+    "phrase": "competitive landscape",
+    "level": 800,
+    "meaning": "競争環境",
+    "example": "The competitive landscape has shifted significantly."
+  },
+  {
+    "id": 284,
+    "phrase": "cookie-cutter approach",
+    "level": 800,
+    "meaning": "画一的なアプローチ",
+    "example": "We avoid a cookie-cutter approach to our clients."
+  },
+  {
+    "id": 285,
+    "phrase": "course correction",
+    "level": 800,
+    "meaning": "軌道修正",
+    "example": "A course correction is needed to meet the budget."
+  },
+  {
+    "id": 286,
+    "phrase": "cover all bases",
+    "level": 800,
+    "meaning": "あらゆる面を準備する",
+    "example": "Please make sure we cover all bases before the launch."
+  },
+  {
+    "id": 287,
+    "phrase": "critical mass",
+    "level": 800,
+    "meaning": "臨界量、必要十分な規模",
+    "example": "We need to reach critical mass to make the platform viable."
+  },
+  {
+    "id": 288,
+    "phrase": "cutting edge",
+    "level": 800,
+    "meaning": "最先端の",
+    "example": "We invest in cutting-edge technologies."
+  },
+  {
+    "id": 289,
+    "phrase": "deliver the goods",
+    "level": 800,
+    "meaning": "期待に応える",
+    "example": "The vendor delivered the goods ahead of schedule."
+  },
+  {
+    "id": 290,
+    "phrase": "domino effect",
+    "level": 800,
+    "meaning": "ドミノ効果",
+    "example": "One delay can trigger a domino effect in the whole project."
+  },
+  {
+    "id": 291,
+    "phrase": "double down",
+    "level": 800,
+    "meaning": "倍に賭ける、方針を強化する",
+    "example": "We need to double down on our core business."
+  },
+  {
+    "id": 292,
+    "phrase": "drive a hard bargain",
+    "level": 800,
+    "meaning": "厳しく交渉する",
+    "example": "He always drives a hard bargain with suppliers."
+  },
+  {
+    "id": 293,
+    "phrase": "end game",
+    "level": 800,
+    "meaning": "最終目標",
+    "example": "Our end game is to capture 30% market share."
+  },
+  {
+    "id": 294,
+    "phrase": "fall into place",
+    "level": 800,
+    "meaning": "うまくいく、まとまる",
+    "example": "Once the key hire is made, things should fall into place."
+  },
+  {
+    "id": 295,
+    "phrase": "fall short of",
+    "level": 800,
+    "meaning": "〜に達しない",
+    "example": "We fell short of our quarterly sales targets."
+  },
+  {
+    "id": 296,
+    "phrase": "fine-tune",
+    "level": 800,
+    "meaning": "微調整する",
+    "example": "Let us fine-tune the proposal based on the feedback."
+  },
+  {
+    "id": 297,
+    "phrase": "fire on all cylinders",
+    "level": 800,
+    "meaning": "全力を出す",
+    "example": "The sales team is firing on all cylinders this quarter."
+  },
+  {
+    "id": 298,
+    "phrase": "first mover advantage",
+    "level": 800,
+    "meaning": "先行者利益",
+    "example": "We need to act now to gain a first mover advantage."
+  },
+  {
+    "id": 299,
+    "phrase": "fit for purpose",
+    "level": 800,
+    "meaning": "目的に適した",
+    "example": "We need to ensure the system is fit for purpose."
+  },
+  {
+    "id": 300,
+    "phrase": "flip the script",
+    "level": 800,
+    "meaning": "発想を転換する",
+    "example": "Let us flip the script and approach this differently."
+  },
+  {
+    "id": 301,
+    "phrase": "force of habit",
+    "level": 800,
+    "meaning": "習慣の力",
+    "example": "Old processes die hard — it is a force of habit."
+  },
+  {
+    "id": 302,
+    "phrase": "full circle",
+    "level": 800,
+    "meaning": "元に戻る、一周する",
+    "example": "After testing alternatives, we came full circle."
+  },
+  {
+    "id": 303,
+    "phrase": "full steam ahead",
+    "level": 800,
+    "meaning": "全力で前進する",
+    "example": "With the funding secured, it is full steam ahead."
+  },
+  {
+    "id": 304,
+    "phrase": "gain traction",
+    "level": 800,
+    "meaning": "勢いを得る",
+    "example": "Our new product is gaining traction in the market."
+  },
+  {
+    "id": 305,
+    "phrase": "get the most out of",
+    "level": 800,
+    "meaning": "最大限に活用する",
+    "example": "We need to get the most out of our existing resources."
+  },
+  {
+    "id": 306,
+    "phrase": "get to the heart of",
+    "level": 800,
+    "meaning": "核心をつく",
+    "example": "Let us get to the heart of the problem."
+  },
+  {
+    "id": 307,
+    "phrase": "give a wide berth",
+    "level": 800,
+    "meaning": "避ける、近づかない",
+    "example": "We gave a wide berth to the risky investment."
+  },
+  {
+    "id": 308,
+    "phrase": "gut feeling",
+    "level": 800,
+    "meaning": "直感",
+    "example": "My gut feeling is that the merger is the right move."
+  },
+  {
+    "id": 309,
+    "phrase": "hand in glove",
+    "level": 800,
+    "meaning": "密接に協力して",
+    "example": "The two departments work hand in glove."
+  },
+  {
+    "id": 310,
+    "phrase": "hands-on approach",
+    "level": 800,
+    "meaning": "実践的なアプローチ",
+    "example": "She takes a hands-on approach to management."
+  },
+  {
+    "id": 311,
+    "phrase": "have a stake in",
+    "level": 800,
+    "meaning": "〜に利害関係がある",
+    "example": "All employees have a stake in the company's success."
+  },
+  {
+    "id": 312,
+    "phrase": "hit a wall",
+    "level": 800,
+    "meaning": "行き詰まる",
+    "example": "The project hit a wall when funding was cut."
+  },
+  {
+    "id": 313,
+    "phrase": "hit the nail on the head",
+    "level": 800,
+    "meaning": "核心をつく",
+    "example": "Your analysis hits the nail on the head."
+  },
+  {
+    "id": 314,
+    "phrase": "in a nutshell",
+    "level": 800,
+    "meaning": "要するに、簡単に言えば",
+    "example": "In a nutshell, we need to reduce costs and grow revenue."
+  },
+  {
+    "id": 315,
+    "phrase": "in full swing",
+    "level": 800,
+    "meaning": "真っ最中で",
+    "example": "The expansion project is now in full swing."
+  },
+  {
+    "id": 316,
+    "phrase": "in the driver's seat",
+    "level": 800,
+    "meaning": "主導権を握っている",
+    "example": "The client is firmly in the driver's seat."
+  },
+  {
+    "id": 317,
+    "phrase": "in the thick of it",
+    "level": 800,
+    "meaning": "真っただ中にいる",
+    "example": "We are right in the thick of the busy season."
+  },
+  {
+    "id": 318,
+    "phrase": "jump the gun",
+    "level": 800,
+    "meaning": "早まった行動をする",
+    "example": "Do not jump the gun and announce before it is confirmed."
+  },
+  {
+    "id": 319,
+    "phrase": "keep one's options open",
+    "level": 800,
+    "meaning": "選択肢を残しておく",
+    "example": "We are keeping our options open on the merger."
+  },
+  {
+    "id": 320,
+    "phrase": "know the ropes",
+    "level": 800,
+    "meaning": "コツを知っている",
+    "example": "She knows the ropes after ten years in the industry."
+  },
+  {
+    "id": 321,
+    "phrase": "leading edge",
+    "level": 800,
+    "meaning": "最先端",
+    "example": "We are working at the leading edge of AI development."
+  },
+  {
+    "id": 322,
+    "phrase": "learn from mistakes",
+    "level": 800,
+    "meaning": "失敗から学ぶ",
+    "example": "We need to learn from our mistakes and improve."
+  },
+  {
+    "id": 323,
+    "phrase": "long-standing",
+    "level": 800,
+    "meaning": "長年にわたる",
+    "example": "We have a long-standing relationship with this client."
+  },
+  {
+    "id": 324,
+    "phrase": "lose ground",
+    "level": 800,
+    "meaning": "劣勢になる、地盤を失う",
+    "example": "We are losing ground to our main competitor."
+  },
+  {
+    "id": 325,
+    "phrase": "make a dent",
+    "level": 800,
+    "meaning": "影響を与える",
+    "example": "The new campaign is starting to make a dent in the market."
+  },
+  {
+    "id": 326,
+    "phrase": "make a pitch",
+    "level": 800,
+    "meaning": "売り込みをする",
+    "example": "We made a pitch to the venture capital firm."
+  },
+  {
+    "id": 327,
+    "phrase": "make or break",
+    "level": 800,
+    "meaning": "成否を決める",
+    "example": "This decision is make or break for the company."
+  },
+  {
+    "id": 328,
+    "phrase": "make sense of",
+    "level": 800,
+    "meaning": "理解する",
+    "example": "It is hard to make sense of all the conflicting data."
+  },
+  {
+    "id": 329,
+    "phrase": "on all fronts",
+    "level": 800,
+    "meaning": "あらゆる面で",
+    "example": "We are making progress on all fronts."
+  },
+  {
+    "id": 330,
+    "phrase": "on the cusp",
+    "level": 800,
+    "meaning": "〜の境目に",
+    "example": "We are on the cusp of a major breakthrough."
+  },
+  {
+    "id": 331,
+    "phrase": "on the line",
+    "level": 800,
+    "meaning": "危険にさらされている",
+    "example": "Our reputation is on the line with this project."
+  },
+  {
+    "id": 332,
+    "phrase": "on the table",
+    "level": 800,
+    "meaning": "議題にのぼっている",
+    "example": "All options are on the table at this point."
+  },
+  {
+    "id": 333,
+    "phrase": "open the door to",
+    "level": 800,
+    "meaning": "道を開く",
+    "example": "This contract opens the door to new opportunities."
+  },
+  {
+    "id": 334,
+    "phrase": "out of left field",
+    "level": 800,
+    "meaning": "予想外のところから",
+    "example": "The acquisition came completely out of left field."
+  },
+  {
+    "id": 335,
+    "phrase": "outpace the competition",
+    "level": 800,
+    "meaning": "競合を追い越す",
+    "example": "We aim to outpace the competition in innovation."
+  },
+  {
+    "id": 336,
+    "phrase": "over and above",
+    "level": 800,
+    "meaning": "〜に加えて",
+    "example": "She delivered results over and above expectations."
+  },
+  {
+    "id": 337,
+    "phrase": "overplay one's hand",
+    "level": 800,
+    "meaning": "やり過ぎる",
+    "example": "Do not overplay your hand in the negotiation."
+  },
+  {
+    "id": 338,
+    "phrase": "pace of change",
+    "level": 800,
+    "meaning": "変化のスピード",
+    "example": "The pace of change in the industry is accelerating."
+  },
+  {
+    "id": 339,
+    "phrase": "pain point",
+    "level": 800,
+    "meaning": "ペインポイント、問題点",
+    "example": "Our product directly addresses the client's main pain points."
+  },
+  {
+    "id": 340,
+    "phrase": "pass the test",
+    "level": 800,
+    "meaning": "合格する",
+    "example": "The new process has passed the quality test."
+  },
+  {
+    "id": 341,
+    "phrase": "peer pressure",
+    "level": 800,
+    "meaning": "仲間からのプレッシャー",
+    "example": "Industry peer pressure is driving the adoption of standards."
+  },
+  {
+    "id": 342,
+    "phrase": "performance gap",
+    "level": 800,
+    "meaning": "業績の差",
+    "example": "We need to identify and close the performance gap."
+  },
+  {
+    "id": 343,
+    "phrase": "pick up the slack",
+    "level": 800,
+    "meaning": "手を補う、カバーする",
+    "example": "The rest of the team picked up the slack after the layoff."
+  },
+  {
+    "id": 344,
+    "phrase": "pivot point",
+    "level": 800,
+    "meaning": "転換点",
+    "example": "Last year was a pivot point for our business strategy."
+  },
+  {
+    "id": 345,
+    "phrase": "play a role",
+    "level": 800,
+    "meaning": "役割を果たす",
+    "example": "Technology plays a vital role in our service delivery."
+  },
+  {
+    "id": 346,
+    "phrase": "play to strengths",
+    "level": 800,
+    "meaning": "強みを生かす",
+    "example": "Good leaders play to their team's strengths."
+  },
+  {
+    "id": 347,
+    "phrase": "point of no return",
+    "level": 800,
+    "meaning": "後戻りできない点",
+    "example": "Once we sign, we have reached the point of no return."
+  },
+  {
+    "id": 348,
+    "phrase": "power play",
+    "level": 800,
+    "meaning": "権力行使",
+    "example": "The merger was seen as a power play by the largest firm."
+  },
+  {
+    "id": 349,
+    "phrase": "pull one's weight",
+    "level": 800,
+    "meaning": "自分の責任を果たす",
+    "example": "Everyone on the team must pull their weight."
+  },
+  {
+    "id": 350,
+    "phrase": "push the envelope",
+    "level": 800,
+    "meaning": "限界に挑む",
+    "example": "Our R&D team pushes the envelope with every project."
+  },
+  {
+    "id": 351,
+    "phrase": "put on the map",
+    "level": 800,
+    "meaning": "有名にする",
+    "example": "The award really put our company on the map."
+  },
+  {
+    "id": 352,
+    "phrase": "put to good use",
+    "level": 800,
+    "meaning": "有効に使う",
+    "example": "We need to put these new tools to good use."
+  },
+  {
+    "id": 353,
+    "phrase": "quick wins",
+    "level": 800,
+    "meaning": "短期間で得られる成果",
+    "example": "Let us focus on quick wins to build momentum."
+  },
+  {
+    "id": 354,
+    "phrase": "raise a red flag",
+    "level": 800,
+    "meaning": "警告する",
+    "example": "The auditor raised a red flag about the discrepancy."
+  },
+  {
+    "id": 355,
+    "phrase": "reach a consensus",
+    "level": 800,
+    "meaning": "合意に達する",
+    "example": "The team reached a consensus on the new strategy."
+  },
+  {
+    "id": 356,
+    "phrase": "read between the lines",
+    "level": 800,
+    "meaning": "行間を読む",
+    "example": "You need to read between the lines of the proposal."
+  },
+  {
+    "id": 357,
+    "phrase": "reality check",
+    "level": 800,
+    "meaning": "現実確認",
+    "example": "Let us do a reality check on whether this is achievable."
+  },
+  {
+    "id": 358,
+    "phrase": "right-size",
+    "level": 800,
+    "meaning": "適切な規模にする",
+    "example": "We are right-sizing the organization to improve efficiency."
+  },
+  {
+    "id": 359,
+    "phrase": "road map",
+    "level": 800,
+    "meaning": "ロードマップ",
+    "example": "Please share the product roadmap for the next two years."
+  },
+  {
+    "id": 360,
+    "phrase": "rock the boat",
+    "level": 800,
+    "meaning": "波風を立てる",
+    "example": "No one wants to rock the boat before the audit."
+  },
+  {
+    "id": 361,
+    "phrase": "role model",
+    "level": 800,
+    "meaning": "ロールモデル",
+    "example": "She is a role model for younger employees in the company."
+  },
+  {
+    "id": 362,
+    "phrase": "rule of thumb",
+    "level": 800,
+    "meaning": "経験則",
+    "example": "As a rule of thumb, budget ten percent for contingencies."
+  },
+  {
+    "id": 363,
+    "phrase": "run a tight ship",
+    "level": 800,
+    "meaning": "厳しく管理する",
+    "example": "He runs a tight ship and expects the best from everyone."
+  },
+  {
+    "id": 364,
+    "phrase": "safe haven",
+    "level": 800,
+    "meaning": "安全地帯",
+    "example": "The company used bonds as a safe haven investment."
+  },
+  {
+    "id": 365,
+    "phrase": "same old story",
+    "level": 800,
+    "meaning": "いつもの話",
+    "example": "The same old story of budget cuts and headcount freezes."
+  },
+  {
+    "id": 366,
+    "phrase": "second to none",
+    "level": 800,
+    "meaning": "他に引けを取らない",
+    "example": "Our product quality is second to none."
+  },
+  {
+    "id": 367,
+    "phrase": "shareholder value",
+    "level": 800,
+    "meaning": "株主価値",
+    "example": "Our mission is to maximize shareholder value."
+  },
+  {
+    "id": 368,
+    "phrase": "shift the focus",
+    "level": 800,
+    "meaning": "焦点を変える",
+    "example": "We need to shift the focus to customer retention."
+  },
+  {
+    "id": 369,
+    "phrase": "show of hands",
+    "level": 800,
+    "meaning": "挙手",
+    "example": "Can I have a show of hands from those who agree?"
+  },
+  {
+    "id": 370,
+    "phrase": "sky is the limit",
+    "level": 800,
+    "meaning": "可能性は無限大",
+    "example": "With this new partnership, the sky is the limit."
+  },
+  {
+    "id": 371,
+    "phrase": "soft launch",
+    "level": 800,
+    "meaning": "ソフトローンチ",
+    "example": "We did a soft launch before the full public release."
+  },
+  {
+    "id": 372,
+    "phrase": "solid foundation",
+    "level": 800,
+    "meaning": "しっかりとした基盤",
+    "example": "We have built a solid foundation for future growth."
+  },
+  {
+    "id": 373,
+    "phrase": "spelling it out",
+    "level": 800,
+    "meaning": "明確に説明する",
+    "example": "Please spell it out clearly so everyone understands."
+  },
+  {
+    "id": 374,
+    "phrase": "acid test",
+    "level": 900,
+    "meaning": "真の試練、決定的なテスト",
+    "example": "The global market will be the acid test of our strategy."
+  },
+  {
+    "id": 375,
+    "phrase": "across the board cut",
+    "level": 900,
+    "meaning": "全体的な削減",
+    "example": "An across-the-board cut was applied to all budgets."
+  },
+  {
+    "id": 376,
+    "phrase": "agent of change",
+    "level": 900,
+    "meaning": "変革の担い手",
+    "example": "The new CEO was a true agent of change."
+  },
+  {
+    "id": 377,
+    "phrase": "amalgamation of interests",
+    "level": 900,
+    "meaning": "利益の統合",
+    "example": "The merger reflects an amalgamation of mutual interests."
+  },
+  {
+    "id": 378,
+    "phrase": "at the helm",
+    "level": 900,
+    "meaning": "舵を取って",
+    "example": "She has been at the helm of the company for a decade."
+  },
+  {
+    "id": 379,
+    "phrase": "back of the envelope",
+    "level": 900,
+    "meaning": "おおよその計算",
+    "example": "A back-of-the-envelope estimate suggests the deal is viable."
+  },
+  {
+    "id": 380,
+    "phrase": "baptism of fire",
+    "level": 900,
+    "meaning": "最初の試練",
+    "example": "Her first week was a real baptism of fire."
+  },
+  {
+    "id": 381,
+    "phrase": "bear market",
+    "level": 900,
+    "meaning": "弱気市場",
+    "example": "In a bear market, defensive stocks tend to outperform."
+  },
+  {
+    "id": 382,
+    "phrase": "bedrock",
+    "level": 900,
+    "meaning": "土台、基盤",
+    "example": "Customer trust is the bedrock of our business model."
+  },
+  {
+    "id": 383,
+    "phrase": "blind spot",
+    "level": 900,
+    "meaning": "盲点",
+    "example": "Cost efficiency has been a blind spot in our planning."
+  },
+  {
+    "id": 384,
+    "phrase": "blue chip",
+    "level": 900,
+    "meaning": "優良な（株・会社）",
+    "example": "The portfolio consists mainly of blue-chip companies."
+  },
+  {
+    "id": 385,
+    "phrase": "boilerplate language",
+    "level": 900,
+    "meaning": "定型文、定型条項",
+    "example": "The contract contains standard boilerplate language."
+  },
+  {
+    "id": 386,
+    "phrase": "brinkmanship",
+    "level": 900,
+    "meaning": "瀬戸際外交、ぎりぎりの交渉",
+    "example": "The two sides engaged in a period of commercial brinkmanship."
+  },
+  {
+    "id": 387,
+    "phrase": "bull market",
+    "level": 900,
+    "meaning": "強気市場",
+    "example": "Investors are optimistic about the start of a new bull market."
+  },
+  {
+    "id": 388,
+    "phrase": "buy-in",
+    "level": 900,
+    "meaning": "合意、支持",
+    "example": "We need buy-in from all key stakeholders."
+  },
+  {
+    "id": 389,
+    "phrase": "cardinal rule",
+    "level": 900,
+    "meaning": "基本原則",
+    "example": "The cardinal rule in business is to never miss a deadline."
+  },
+  {
+    "id": 390,
+    "phrase": "cash cow",
+    "level": 900,
+    "meaning": "安定した収益源",
+    "example": "Our legacy software product is our main cash cow."
+  },
+  {
+    "id": 391,
+    "phrase": "change the narrative",
+    "level": 900,
+    "meaning": "語り口を変える",
+    "example": "We need to change the narrative around our brand."
+  },
+  {
+    "id": 392,
+    "phrase": "checks and balances",
+    "level": 900,
+    "meaning": "抑制と均衡",
+    "example": "A proper system of checks and balances is essential."
+  },
+  {
+    "id": 393,
+    "phrase": "clear-cut",
+    "level": 900,
+    "meaning": "明確な",
+    "example": "There is no clear-cut answer to this strategic dilemma."
+  },
+  {
+    "id": 394,
+    "phrase": "close ranks",
+    "level": 900,
+    "meaning": "結束する",
+    "example": "In times of crisis, the team must close ranks."
+  },
+  {
+    "id": 395,
+    "phrase": "competitive moat",
+    "level": 900,
+    "meaning": "競争上の堀、参入障壁",
+    "example": "A strong brand creates a competitive moat."
+  },
+  {
+    "id": 396,
+    "phrase": "compound effect",
+    "level": 900,
+    "meaning": "複利効果",
+    "example": "The compound effect of small improvements adds up."
+  },
+  {
+    "id": 397,
+    "phrase": "conflict of interest",
+    "level": 900,
+    "meaning": "利益相反",
+    "example": "Directors must disclose any conflict of interest."
+  },
+  {
+    "id": 398,
+    "phrase": "contrarian view",
+    "level": 900,
+    "meaning": "反主流意見",
+    "example": "Some analysts hold a contrarian view on the market."
+  },
+  {
+    "id": 399,
+    "phrase": "core competence",
+    "level": 900,
+    "meaning": "中核能力",
+    "example": "Our core competence is deep domain expertise."
+  },
+  {
+    "id": 400,
+    "phrase": "covenant breach",
+    "level": 900,
+    "meaning": "契約違反",
+    "example": "A covenant breach could trigger early loan repayment."
+  },
+  {
+    "id": 401,
+    "phrase": "creative destruction",
+    "level": 900,
+    "meaning": "創造的破壊",
+    "example": "Technology companies embrace the concept of creative destruction."
+  },
+  {
+    "id": 402,
+    "phrase": "critical path",
+    "level": 900,
+    "meaning": "クリティカルパス",
+    "example": "The software integration is on the critical path."
+  },
+  {
+    "id": 403,
+    "phrase": "cross-pollination",
+    "level": 900,
+    "meaning": "相互交流による知識の共有",
+    "example": "Cross-pollination of ideas between teams drives innovation."
+  },
+  {
+    "id": 404,
+    "phrase": "dark horse",
+    "level": 900,
+    "meaning": "ダークホース、穴馬",
+    "example": "The startup was a dark horse that disrupted the market."
+  },
+  {
+    "id": 405,
+    "phrase": "dead wood",
+    "level": 900,
+    "meaning": "役立たず、不要な社員",
+    "example": "The restructuring eliminated a lot of dead wood."
+  },
+  {
+    "id": 406,
+    "phrase": "deal breaker",
+    "level": 900,
+    "meaning": "交渉決裂の原因",
+    "example": "The high price became a deal breaker for the buyer."
+  },
+  {
+    "id": 407,
+    "phrase": "deep dive",
+    "level": 900,
+    "meaning": "深掘り分析",
+    "example": "Let us do a deep dive into the customer data."
+  },
+  {
+    "id": 408,
+    "phrase": "de facto standard",
+    "level": 900,
+    "meaning": "事実上の標準",
+    "example": "Our product has become the de facto standard."
+  },
+  {
+    "id": 409,
+    "phrase": "dog-eat-dog",
+    "level": 900,
+    "meaning": "激しい競争の",
+    "example": "It is a dog-eat-dog industry with razor-thin margins."
+  },
+  {
+    "id": 410,
+    "phrase": "dominant position",
+    "level": 900,
+    "meaning": "支配的地位",
+    "example": "The regulator is investigating the firm's dominant position."
+  },
+  {
+    "id": 411,
+    "phrase": "due diligence",
+    "level": 900,
+    "meaning": "デューデリジェンス、事前調査",
+    "example": "Proper due diligence was conducted before the acquisition."
+  },
+  {
+    "id": 412,
+    "phrase": "elephant in the room",
+    "level": 900,
+    "meaning": "誰も触れない問題",
+    "example": "The real issue — the elephant in the room — is funding."
+  },
+  {
+    "id": 413,
+    "phrase": "endgame",
+    "level": 900,
+    "meaning": "最終目的、決着",
+    "example": "What is the endgame for this negotiation?"
+  },
+  {
+    "id": 414,
+    "phrase": "exit strategy",
+    "level": 900,
+    "meaning": "出口戦略",
+    "example": "Every investment must have a clearly defined exit strategy."
+  },
+  {
+    "id": 415,
+    "phrase": "feedback loop",
+    "level": 900,
+    "meaning": "フィードバックループ",
+    "example": "A strong feedback loop helps us improve continuously."
+  },
+  {
+    "id": 416,
+    "phrase": "fiduciary duty",
+    "level": 900,
+    "meaning": "受託者義務",
+    "example": "Directors must act in accordance with their fiduciary duty."
+  },
+  {
+    "id": 417,
+    "phrase": "fixed mindset",
+    "level": 900,
+    "meaning": "固定されたマインドセット",
+    "example": "A fixed mindset can prevent organizational growth."
+  },
+  {
+    "id": 418,
+    "phrase": "flag bearer",
+    "level": 900,
+    "meaning": "旗手、代表",
+    "example": "She is the flag bearer for inclusive leadership in our firm."
+  },
+  {
+    "id": 419,
+    "phrase": "fly-by-night",
+    "level": 900,
+    "meaning": "怪しい、一夜限りの",
+    "example": "We do not work with fly-by-night vendors."
+  },
+  {
+    "id": 420,
+    "phrase": "foot in the door",
+    "level": 900,
+    "meaning": "突破口を開く",
+    "example": "Getting this small contract gives us a foot in the door."
+  },
+  {
+    "id": 421,
+    "phrase": "force multiplier",
+    "level": 900,
+    "meaning": "力の倍増手段",
+    "example": "Technology acts as a force multiplier for our team."
+  },
+  {
+    "id": 422,
+    "phrase": "game changer",
+    "level": 900,
+    "meaning": "ゲームチェンジャー、状況を一変させるもの",
+    "example": "This new technology is a real game changer."
+  },
+  {
+    "id": 423,
+    "phrase": "going concern",
+    "level": 900,
+    "meaning": "継続企業",
+    "example": "Auditors questioned whether the firm was a going concern."
+  },
+  {
+    "id": 424,
+    "phrase": "golden handcuffs",
+    "level": 900,
+    "meaning": "高報酬による退職防止策",
+    "example": "The executives were retained through golden handcuffs."
+  },
+  {
+    "id": 425,
+    "phrase": "golden parachute",
+    "level": 900,
+    "meaning": "黄金のパラシュート（高額退職金）",
+    "example": "The CEO negotiated a golden parachute in the contract."
+  },
+  {
+    "id": 426,
+    "phrase": "goodwill",
+    "level": 900,
+    "meaning": "のれん、信用",
+    "example": "The acquisition price included a significant goodwill premium."
+  },
+  {
+    "id": 427,
+    "phrase": "grasp the nettle",
+    "level": 900,
+    "meaning": "困難な問題に正面から取り組む",
+    "example": "It is time to grasp the nettle on the cost structure."
+  },
+  {
+    "id": 428,
+    "phrase": "greenfield project",
+    "level": 900,
+    "meaning": "新規プロジェクト",
+    "example": "Building the new factory is a greenfield project."
+  },
+  {
+    "id": 429,
+    "phrase": "grow the pie",
+    "level": 900,
+    "meaning": "全体のパイを大きくする",
+    "example": "Let us grow the pie rather than just divide it."
+  },
+  {
+    "id": 430,
+    "phrase": "hair trigger",
+    "level": 900,
+    "meaning": "過剰反応する",
+    "example": "Investors have a hair trigger in volatile markets."
+  },
+  {
+    "id": 431,
+    "phrase": "hard-nosed",
+    "level": 900,
+    "meaning": "妥協しない、現実的な",
+    "example": "We need a hard-nosed approach to cost control."
+  },
+  {
+    "id": 432,
+    "phrase": "headwinds",
+    "level": 900,
+    "meaning": "逆風",
+    "example": "The company faces significant headwinds from rising costs."
+  },
+  {
+    "id": 433,
+    "phrase": "hedge one's bets",
+    "level": 900,
+    "meaning": "リスクを分散する",
+    "example": "We are hedging our bets by entering multiple markets."
+  },
+  {
+    "id": 434,
+    "phrase": "hidden agenda",
+    "level": 900,
+    "meaning": "隠れた意図",
+    "example": "Be alert to any hidden agenda in the negotiation."
+  },
+  {
+    "id": 435,
+    "phrase": "high-water mark",
+    "level": 900,
+    "meaning": "最高記録",
+    "example": "Last year's profit was the high-water mark for the company."
+  },
+  {
+    "id": 436,
+    "phrase": "hit the sweet spot",
+    "level": 900,
+    "meaning": "最適な点に達する",
+    "example": "The new pricing model hits the sweet spot for customers."
+  },
+  {
+    "id": 437,
+    "phrase": "holding pattern",
+    "level": 900,
+    "meaning": "現状維持",
+    "example": "We are in a holding pattern while awaiting regulatory approval."
+  },
+  {
+    "id": 438,
+    "phrase": "horse trading",
+    "level": 900,
+    "meaning": "取引の駆け引き",
+    "example": "The final agreement involved some tough horse trading."
+  },
+  {
+    "id": 439,
+    "phrase": "in a bind",
+    "level": 900,
+    "meaning": "苦境に立たされている",
+    "example": "We are in a bind due to the supply chain shortage."
+  },
+  {
+    "id": 440,
+    "phrase": "in spades",
+    "level": 900,
+    "meaning": "非常に多く",
+    "example": "The new product has potential — in spades."
+  },
+  {
+    "id": 441,
+    "phrase": "informed consent",
+    "level": 900,
+    "meaning": "インフォームドコンセント、説明に基づく同意",
+    "example": "Informed consent must be obtained before data processing."
+  },
+  {
+    "id": 442,
+    "phrase": "intellectual property",
+    "level": 900,
+    "meaning": "知的財産",
+    "example": "We have strict policies to protect our intellectual property."
+  },
+  {
+    "id": 443,
+    "phrase": "invisible hand",
+    "level": 900,
+    "meaning": "見えざる手（市場原理）",
+    "example": "The invisible hand of the market will drive prices down."
+  },
+  {
+    "id": 444,
+    "phrase": "iron out the wrinkles",
+    "level": 900,
+    "meaning": "細かい問題を解決する",
+    "example": "Let us iron out the wrinkles in the contract."
+  },
+  {
+    "id": 445,
+    "phrase": "keep cards close to chest",
+    "level": 900,
+    "meaning": "手の内を見せない",
+    "example": "We kept our cards close to our chest during negotiations."
+  },
+  {
+    "id": 446,
+    "phrase": "key performance indicator",
+    "level": 900,
+    "meaning": "重要業績評価指標",
+    "example": "Please track each key performance indicator weekly."
+  },
+  {
+    "id": 447,
+    "phrase": "kick the can down the road",
+    "level": 900,
+    "meaning": "問題を先送りにする",
+    "example": "We cannot keep kicking the can down the road."
+  },
+  {
+    "id": 448,
+    "phrase": "kingpin",
+    "level": 900,
+    "meaning": "中核的な人物、要",
+    "example": "She is the kingpin of the entire supply operation."
+  },
+  {
+    "id": 449,
+    "phrase": "knowledge economy",
+    "level": 900,
+    "meaning": "知識経済",
+    "example": "In the knowledge economy, talent is the main asset."
+  },
+  {
+    "id": 450,
+    "phrase": "law of diminishing returns",
+    "level": 900,
+    "meaning": "収穫逓減の法則",
+    "example": "Continued investment faces the law of diminishing returns."
+  },
+  {
+    "id": 451,
+    "phrase": "lean on",
+    "level": 900,
+    "meaning": "頼る",
+    "example": "We are leaning on our key clients to support us."
+  },
+  {
+    "id": 452,
+    "phrase": "leapfrog",
+    "level": 900,
+    "meaning": "飛び越える、先んじる",
+    "example": "We plan to leapfrog the competition with next-gen tech."
+  },
+  {
+    "id": 453,
+    "phrase": "level of exposure",
+    "level": 900,
+    "meaning": "リスクの程度",
+    "example": "Please assess the level of exposure on each contract."
+  },
+  {
+    "id": 454,
+    "phrase": "lift off",
+    "level": 900,
+    "meaning": "離陸する、急成長する",
+    "example": "The startup is ready to lift off with new investment."
+  },
+  {
+    "id": 455,
+    "phrase": "line in the sand",
+    "level": 900,
+    "meaning": "越えてはならない一線",
+    "example": "This is our line in the sand on pricing."
+  },
+  {
+    "id": 456,
+    "phrase": "loss leader",
+    "level": 900,
+    "meaning": "目玉商品、赤字覚悟の商品",
+    "example": "The product was priced as a loss leader to attract customers."
+  },
+  {
+    "id": 457,
+    "phrase": "low-hanging fruit",
+    "level": 900,
+    "meaning": "簡単に取れる機会",
+    "example": "Let us target the low-hanging fruit markets first."
+  },
+  {
+    "id": 458,
+    "phrase": "margin of error",
+    "level": 900,
+    "meaning": "誤差の範囲",
+    "example": "The forecast has a margin of error of five percent."
+  },
+  {
+    "id": 459,
+    "phrase": "market dislocation",
+    "level": 900,
+    "meaning": "市場の混乱",
+    "example": "Market dislocation created new opportunities for us."
+  },
+  {
+    "id": 460,
+    "phrase": "meeting of minds",
+    "level": 900,
+    "meaning": "相互理解、意見の一致",
+    "example": "The negotiation ended with a genuine meeting of minds."
+  },
+  {
+    "id": 461,
+    "phrase": "merchant banker",
+    "level": 900,
+    "meaning": "投資銀行家",
+    "example": "A prominent merchant banker advised on the acquisition."
+  },
+  {
+    "id": 462,
+    "phrase": "minority stake",
+    "level": 900,
+    "meaning": "少数株主持分",
+    "example": "We acquired a minority stake in the startup."
+  },
+  {
+    "id": 463,
+    "phrase": "mission creep",
+    "level": 900,
+    "meaning": "当初の目的からの逸脱",
+    "example": "Watch out for mission creep as the project evolves."
+  },
+  {
+    "id": 464,
+    "phrase": "moment of truth",
+    "level": 900,
+    "meaning": "真実の瞬間",
+    "example": "The product launch will be our moment of truth."
+  },
+  {
+    "id": 465,
+    "phrase": "moral hazard",
+    "level": 900,
+    "meaning": "モラルハザード",
+    "example": "The bailout creates a significant moral hazard."
+  },
+  {
+    "id": 466,
+    "phrase": "natural attrition",
+    "level": 900,
+    "meaning": "自然減（退職等による）",
+    "example": "The headcount was reduced through natural attrition."
+  },
+  {
+    "id": 467,
+    "phrase": "near-term outlook",
+    "level": 900,
+    "meaning": "短期的な見通し",
+    "example": "The near-term outlook for the sector remains uncertain."
+  },
+  {
+    "id": 468,
+    "phrase": "net present value",
+    "level": 900,
+    "meaning": "正味現在価値",
+    "example": "The net present value of the investment is positive."
+  },
+  {
+    "id": 469,
+    "phrase": "north star",
+    "level": 900,
+    "meaning": "指針、最終的な目標",
+    "example": "Customer satisfaction is our north star."
+  },
+  {
+    "id": 470,
+    "phrase": "off-balance-sheet",
+    "level": 900,
+    "meaning": "オフバランスシートの",
+    "example": "The liability was kept off-balance-sheet."
+  },
+  {
+    "id": 471,
+    "phrase": "open book management",
+    "level": 900,
+    "meaning": "オープンブック経営",
+    "example": "We practice open book management with our team."
+  },
+  {
+    "id": 472,
+    "phrase": "perfect storm",
+    "level": 900,
+    "meaning": "最悪の事態の重なり",
+    "example": "A perfect storm of factors caused the company to fail."
+  },
+  {
+    "id": 473,
+    "phrase": "post-mortem analysis",
+    "level": 900,
+    "meaning": "事後分析",
+    "example": "A post-mortem analysis was conducted after the project."
+  },
+  {
+    "id": 474,
+    "phrase": "power dynamics",
+    "level": 900,
+    "meaning": "権力関係",
+    "example": "Understanding the power dynamics in a negotiation is vital."
+  },
+  {
+    "id": 475,
+    "phrase": "proof of concept",
+    "level": 900,
+    "meaning": "概念実証",
+    "example": "We completed a proof of concept for the new system."
+  },
+  {
+    "id": 476,
+    "phrase": "scalable model",
+    "level": 900,
+    "meaning": "スケーラブルなモデル",
+    "example": "We need a scalable model to support rapid growth."
+  },
+  {
+    "id": 477,
+    "phrase": "skin in the game",
+    "level": 900,
+    "meaning": "当事者意識、利害関係",
+    "example": "All partners must have skin in the game."
+  },
+  {
+    "id": 478,
+    "phrase": "stakeholder alignment",
+    "level": 900,
+    "meaning": "ステークホルダーの調整",
+    "example": "Stakeholder alignment is critical before the rollout."
+  },
+  {
+    "id": 479,
+    "phrase": "supply chain resilience",
+    "level": 900,
+    "meaning": "サプライチェーンの強靭性",
+    "example": "We are focused on building supply chain resilience."
+  },
+  {
+    "id": 480,
+    "phrase": "switching costs",
+    "level": 900,
+    "meaning": "乗り換えコスト",
+    "example": "High switching costs keep customers loyal to our platform."
+  },
+  {
+    "id": 481,
+    "phrase": "tail risk",
+    "level": 900,
+    "meaning": "テールリスク",
+    "example": "We need to hedge against tail risk in the portfolio."
+  },
+  {
+    "id": 482,
+    "phrase": "take a hit",
+    "level": 900,
+    "meaning": "損失を被る",
+    "example": "The company took a hit from rising raw material costs."
+  },
+  {
+    "id": 483,
+    "phrase": "the writing on the wall",
+    "level": 900,
+    "meaning": "兆候、予兆",
+    "example": "The writing was on the wall long before the collapse."
+  },
+  {
+    "id": 484,
+    "phrase": "tipping point",
+    "level": 900,
+    "meaning": "転換点、臨界点",
+    "example": "The market has reached a tipping point for digital adoption."
+  },
+  {
+    "id": 485,
+    "phrase": "total cost of ownership",
+    "level": 900,
+    "meaning": "総所有コスト",
+    "example": "Consider the total cost of ownership, not just the price."
+  },
+  {
+    "id": 486,
+    "phrase": "touch base",
+    "level": 900,
+    "meaning": "連絡を取る、確認する",
+    "example": "Let us touch base before the client meeting."
+  },
+  {
+    "id": 487,
+    "phrase": "turning the tide",
+    "level": 900,
+    "meaning": "流れを変える",
+    "example": "The new strategy is turning the tide in our favor."
+  },
+  {
+    "id": 488,
+    "phrase": "value chain",
+    "level": 900,
+    "meaning": "バリューチェーン",
+    "example": "We are optimizing our entire value chain."
+  },
+  {
+    "id": 489,
+    "phrase": "value proposition",
+    "level": 900,
+    "meaning": "価値提案",
+    "example": "Our value proposition is centered on speed and quality."
+  },
+  {
+    "id": 490,
+    "phrase": "vicious cycle",
+    "level": 900,
+    "meaning": "悪循環",
+    "example": "We need to break the vicious cycle of low investment."
+  },
+  {
+    "id": 491,
+    "phrase": "virtuous cycle",
+    "level": 900,
+    "meaning": "好循環",
+    "example": "Good service creates a virtuous cycle of customer loyalty."
+  },
+  {
+    "id": 492,
+    "phrase": "white space",
+    "level": 900,
+    "meaning": "未開拓の市場",
+    "example": "There is significant white space in the mid-market segment."
+  },
+  {
+    "id": 493,
+    "phrase": "winding down",
+    "level": 900,
+    "meaning": "縮小する、終わりに向かう",
+    "example": "The project is winding down after a successful run."
+  },
+  {
+    "id": 494,
+    "phrase": "worst case scenario",
+    "level": 900,
+    "meaning": "最悪のシナリオ",
+    "example": "Let us model the worst case scenario for the plan."
+  },
+  {
+    "id": 495,
+    "phrase": "year-on-year growth",
+    "level": 900,
+    "meaning": "前年比成長",
+    "example": "We achieved 15% year-on-year growth in sales."
+  },
+  {
+    "id": 496,
+    "phrase": "zero-sum game",
+    "level": 900,
+    "meaning": "ゼロサムゲーム",
+    "example": "Business should not be treated as a zero-sum game."
+  },
+  {
+    "id": 497,
+    "phrase": "hit the jackpot",
+    "level": 700,
+    "meaning": "大当たりする、大きな成功を得る",
+    "example": "We hit the jackpot with our new product launch."
+  },
+  {
+    "id": 498,
+    "phrase": "squeaky wheel gets the grease",
+    "level": 800,
+    "meaning": "声が大きい者が有利を得る",
+    "example": "In negotiations, the squeaky wheel gets the grease."
+  },
+  {
+    "id": 499,
+    "phrase": "burning the candle at both ends",
+    "level": 900,
+    "meaning": "無理をして働く",
+    "example": "The team has been burning the candle at both ends."
+  },
+  {
+    "id": 500,
+    "phrase": "eat one's own dog food",
+    "level": 900,
+    "meaning": "自社製品を自分たちで使う",
+    "example": "We eat our own dog food — our team uses the platform daily."
+  }
 ]
